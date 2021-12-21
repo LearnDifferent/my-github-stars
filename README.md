@@ -4,32 +4,35 @@
 
 ## Table of Contents
 
-- [Java (64)](#41a1d738-677f-4862-b769-092f164be365)
-- [JavaScript (25)](#0ec0dcea-1724-46eb-a415-bc3573973bbc)
-- [Python (16)](#c4c0fda6-140b-4014-8983-8b4afe3d0fe5)
-- [TypeScript (9)](#284015ea-c739-48f1-9c6b-3fc233484192)
-- [Go (7)](#05a8a4ce-5687-44ec-88e1-cafbc4ebb558)
-- [HTML (6)](#c1bf4e39-3840-459d-a9a9-06a0f721b4f0)
-- [Swift (5)](#c2faf9a1-659d-40de-a56a-3be104d73069)
-- [Shell (5)](#695a12c4-1257-42fb-877e-76a6c42b3fbf)
-- [Vim script (5)](#77d713cc-4c55-4004-be32-080a848fbd00)
-- [Kotlin (5)](#0bdaf292-9be8-43a6-a6e5-7e8a78f08171)
-- [Objective-C (4)](#c9db612b-0048-43fd-a65c-332ceaca9ffd)
-- [Rust (3)](#7331d8ac-9e93-4c83-858f-a00348e30bdd)
-- [Jupyter Notebook (3)](#76d58da7-96f2-4cd4-b163-fe3d88f8bf22)
-- [Vue (3)](#b8c42e36-fbe5-4feb-ae4d-34631be600a4)
-- [Dockerfile (2)](#8482a2a2-5ce1-4ed7-bcb4-650ce1e03441)
-- [AppleScript (2)](#abecfa7a-a66e-4d48-93eb-f1ccc36a8200)
-- [Dart (2)](#ea6fd6aa-e110-4309-83d6-d8cd85caea5e)
-- [PHP (2)](#2bbe03f1-1491-4a51-83a1-d97f3af4894c)
-- [CSS (1)](#1e7e187f-6157-4bd7-a52b-c3018dd2f855)
-- [C# (1)](#a2064046-568a-49a8-a911-eef7d7ce6b0a)
-- [Roff (1)](#13ad7a7e-2f59-4a66-9f29-68e405bb1200)
-- [TeX (1)](#1334de79-f493-4b84-a7a7-c2b63eb948fd)
-- [Ruby (1)](#25673498-5824-4ca5-93e4-037d78412125)
-- [Others (57)](#1118a6c7-4115-453d-b762-b4da69cf9700)
+- [Java (66)](#025abc44-3a67-4a88-bf4c-266f29e1dd6c)
+- [JavaScript (29)](#db06f60b-a88d-4e23-93a4-f1b0be41a09b)
+- [Python (18)](#b2bbfc3d-e36c-497a-9d15-3fe57ac74680)
+- [TypeScript (9)](#b21332e8-f4ac-4462-a4c2-7e17144a6179)
+- [Go (8)](#460f4794-70b3-45ed-ba0b-bf47e2fdf430)
+- [Kotlin (7)](#ed6e4ae6-1302-4d06-98d3-34c1a5771d63)
+- [HTML (6)](#cdeb50b4-55b8-44ac-81e9-456b5fc01113)
+- [Swift (5)](#535a71aa-2ac8-4e34-aa04-28cadae1bfba)
+- [Shell (5)](#d536d642-9b3a-461e-8bc4-6ba6fcd83a8c)
+- [Vim script (5)](#91880c3e-eecf-4770-a970-2b3b5399f4d7)
+- [Objective-C (4)](#77cf0672-7b0f-4f70-b70b-118b7b0688b0)
+- [Vue (4)](#096abd61-82eb-4269-8085-b7777a5aef36)
+- [Rust (3)](#cf829dbc-b079-4d7e-8bc5-10d9867e95f4)
+- [C++ (3)](#6a5830e2-a448-434a-971a-5284354394a4)
+- [Jupyter Notebook (3)](#95999ad5-8c6f-4923-b4bb-86e42d49e5f4)
+- [Dockerfile (2)](#d2584476-1258-401a-bcdd-212c4bd9d02b)
+- [AppleScript (2)](#36f1a2f0-5e67-4e11-a05e-7809424e023d)
+- [Dart (2)](#45250101-3ba1-48fd-ad88-def0b47e18a8)
+- [Ruby (2)](#78052c0f-42fa-498d-ad09-b43d7702a0c9)
+- [PHP (2)](#ad01d625-7da9-4f25-8c20-3dc9e00f2f05)
+- [Markdown (1)](#a92d3079-91b4-416a-b247-8b432c4b9833)
+- [Less (1)](#5da3809e-485b-452d-b1f7-9f31a5b32572)
+- [C# (1)](#57f9372a-9bb8-48db-81ea-be737df65024)
+- [Roff (1)](#061251f3-759b-48c2-ba71-33e2dfc65b48)
+- [TeX (1)](#0afa49d5-0459-490e-83b4-54f17c2aa5b4)
+- [CSS (1)](#da83663b-0ce7-4af0-a070-de96d1ce65a8)
+- [Others (69)](#fbb87095-d23e-4492-8b47-033feedd81b3)
 
-## <span id="41a1d738-677f-4862-b769-092f164be365">Java</span>
+## <span id="025abc44-3a67-4a88-bf4c-266f29e1dd6c">Java</span>
 
 [CS-Notes](https://github.com/CyC2018/CS-Notes) :
 
@@ -37,7 +40,7 @@
 - Owner: [CyC2018](https://github.com/CyC2018)
 - Description: :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - Clone: `git clone git@github.com:CyC2018/CS-Notes.git`
-- Stars: 139372, Forks: 44656
+- Stars: 143724, Forks: 45826
 - language: Java
 
 [JavaGuide](https://github.com/Snailclimb/JavaGuide) :
@@ -46,7 +49,7 @@
 - Owner: [Snailclimb](https://github.com/Snailclimb)
 - Description: 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - Clone: `git clone git@github.com:Snailclimb/JavaGuide.git`
-- Stars: 111547, Forks: 38216
+- Stars: 114797, Forks: 39200
 - language: Java
 
 [advanced-java](https://github.com/doocs/advanced-java) :
@@ -55,7 +58,7 @@
 - Owner: [doocs](https://github.com/doocs)
 - Description: 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - Clone: `git clone git@github.com:doocs/advanced-java.git`
-- Stars: 57821, Forks: 15839
+- Stars: 59178, Forks: 16227
 - language: Java, JavaScript
 
 [elasticsearch](https://github.com/elastic/elasticsearch) :
@@ -64,7 +67,7 @@
 - Owner: [elastic](https://github.com/elastic)
 - Description: Free and Open, Distributed, RESTful Search Engine
 - Clone: `git clone git@github.com:elastic/elasticsearch.git`
-- Stars: 56679, Forks: 20664
+- Stars: 57826, Forks: 21025
 - language: Java, Groovy, Shell, ANTLR, Batchfile, Python, Dockerfile, CSS, Emacs Lisp, PowerShell, HTML, JavaScript, Mustache, FreeMarker
 
 [interviews](https://github.com/kdn251/interviews) :
@@ -73,7 +76,7 @@
 - Owner: [kdn251](https://github.com/kdn251)
 - Description: Everything you need to know to get the job.
 - Clone: `git clone git@github.com:kdn251/interviews.git`
-- Stars: 54078, Forks: 11463
+- Stars: 54889, Forks: 11666
 - language: Java
 
 [mall](https://github.com/macrozheng/mall) :
@@ -82,7 +85,7 @@
 - Owner: [macrozheng](https://github.com/macrozheng)
 - Description: mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - Clone: `git clone git@github.com:macrozheng/mall.git`
-- Stars: 53031, Forks: 22619
+- Stars: 54868, Forks: 23379
 - language: Java, Shell, Dockerfile
 
 [spring-framework](https://github.com/spring-projects/spring-framework) :
@@ -91,7 +94,7 @@
 - Owner: [spring-projects](https://github.com/spring-projects)
 - Description: Spring Framework
 - Clone: `git clone git@github.com:spring-projects/spring-framework.git`
-- Stars: 44501, Forks: 31274
+- Stars: 45431, Forks: 32070
 - language: Java, Kotlin, Groovy, AspectJ, FreeMarker, CSS, GAP, Shell, XSLT, HTML, Ruby, JavaScript, Smarty, PLpgSQL, Python, Dockerfile
 
 [Java](https://github.com/TheAlgorithms/Java) :
@@ -99,16 +102,7 @@
 - Owner: [TheAlgorithms](https://github.com/TheAlgorithms)
 - Description: All Algorithms implemented in Java
 - Clone: `git clone git@github.com:TheAlgorithms/Java.git`
-- Stars: 41191, Forks: 13522
-- language: Java, Dockerfile
-
-[JCSprout](https://github.com/crossoverJie/JCSprout) :
-
-- [Website](https://crossoverjie.top/JCSprout)
-- Owner: [crossoverJie](https://github.com/crossoverJie)
-- Description: 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm 
-- Clone: `git clone git@github.com:crossoverJie/JCSprout.git`
-- Stars: 26431, Forks: 7121
+- Stars: 42907, Forks: 14194
 - language: Java
 
 [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) :
@@ -117,8 +111,17 @@
 - Owner: [ityouknow](https://github.com/ityouknow)
 - Description: about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 
 - Clone: `git clone git@github.com:ityouknow/spring-boot-examples.git`
-- Stars: 26367, Forks: 11511
+- Stars: 26822, Forks: 11672
 - language: Java, HTML, Dockerfile, CSS
+
+[JCSprout](https://github.com/crossoverJie/JCSprout) :
+
+- [Website](https://crossoverjie.top/JCSprout)
+- Owner: [crossoverJie](https://github.com/crossoverJie)
+- Description: 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm 
+- Clone: `git clone git@github.com:crossoverJie/JCSprout.git`
+- Stars: 26545, Forks: 7147
+- language: Java
 
 [druid](https://github.com/alibaba/druid) :
 
@@ -126,7 +129,7 @@
 - Owner: [alibaba](https://github.com/alibaba)
 - Description: 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
 - Clone: `git clone git@github.com:alibaba/druid.git`
-- Stars: 24588, Forks: 7882
+- Stars: 24941, Forks: 7974
 - language: Java, HTML, TSQL, JavaScript, PLSQL, CSS, Batchfile, Shell
 
 [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) :
@@ -135,7 +138,7 @@
 - Owner: [xkcoding](https://github.com/xkcoding)
 - Description: 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作Mybatis)、BeetlSQL(强大的ORM框架)、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类型邮件)、task(基础定时任务)、quartz(动态管理定时任务)、xxl-job(分布式定时任务)、swagger(API接口管理测试)、security(基于RBAC的动态权限认证)、SpringSession(Session共享)、Zookeeper(结合AOP实现分布式锁)、RabbitMQ(消息队列)、Kafka(消息队列)、websocket(服务端推送监控服务器运行信息)、socket.io(聊天室)、ureport2(中国式报表)、打包成war文件、集成 ElasticSearch(基本操作和高级查询)、Async(异步任务)、集成Dubbo(采用官方的starter)、MongoDB(文档数据库)、neo4j(图数据库)、docker(容器化)、JPA多数据源、Mybatis多数据源、代码生成器、GrayLog(日志收集)、JustAuth(第三方登录)、LDAP(增删改查)、动态添加/切换数据源、单机限流(AOP + Guava RateLimiter)、分布式限流(AOP + Redis + Lua)、ElasticSearch 7.x(使用官方 Rest High Level Client)、HTTPS、Flyway(数据库初始化)、UReport2(中国式复杂报表)。
 - Clone: `git clone git@github.com:xkcoding/spring-boot-demo.git`
-- Stars: 23525, Forks: 8138
+- Stars: 24277, Forks: 8427
 - language: Java, HTML, TSQL, PLpgSQL, Lua, FreeMarker, Dockerfile
 
 [miaosha](https://github.com/qiurunze123/miaosha) :
@@ -143,7 +146,7 @@
 - Owner: [qiurunze123](https://github.com/qiurunze123)
 - Description: ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - Clone: `git clone git@github.com:qiurunze123/miaosha.git`
-- Stars: 21842, Forks: 5650
+- Stars: 23210, Forks: 5990
 - language: Java, FreeMarker, HTML, PHP, Lua
 
 [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) :
@@ -152,7 +155,7 @@
 - Owner: [hollischuang](https://github.com/hollischuang)
 - Description: To Be Top Javaer - Java工程师成神之路
 - Clone: `git clone git@github.com:hollischuang/toBeTopJavaer.git`
-- Stars: 21625, Forks: 4915
+- Stars: 22070, Forks: 4994
 - language: Java
 
 [hutool](https://github.com/dromara/hutool) :
@@ -161,7 +164,7 @@
 - Owner: [dromara](https://github.com/dromara)
 - Description: 🍬A set of tools that keep Java sweet.
 - Clone: `git clone git@github.com:dromara/hutool.git`
-- Stars: 20616, Forks: 5971
+- Stars: 21414, Forks: 6145
 - language: Java, Shell, HTML, JavaScript, FreeMarker
 
 [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) :
@@ -170,8 +173,17 @@
 - Owner: [alibaba](https://github.com/alibaba)
 - Description: Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 - Clone: `git clone git@github.com:alibaba/spring-cloud-alibaba.git`
-- Stars: 20214, Forks: 6210
+- Stars: 20947, Forks: 6437
 - language: Java, Shell, JavaScript, HTML
+
+[GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) :
+
+- [Website](https://juejin.im/user/582aca2ba22b9d006b59ae68/posts)
+- Owner: [CarGuo](https://github.com/CarGuo)
+- Description: 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。 
+- Clone: `git clone git@github.com:CarGuo/GSYVideoPlayer.git`
+- Stars: 16958, Forks: 3750
+- language: Java, Shell
 
 [mybatis-3](https://github.com/mybatis/mybatis-3) :
 
@@ -179,8 +191,16 @@
 - Owner: [mybatis](https://github.com/mybatis)
 - Description: MyBatis SQL mapper framework for Java
 - Clone: `git clone git@github.com:mybatis/mybatis-3.git`
-- Stars: 16272, Forks: 10994
+- Stars: 16622, Forks: 11200
 - language: Java, CSS, TSQL, PLpgSQL
+
+[SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) :
+
+- Owner: [YunaiV](https://github.com/YunaiV)
+- Description: 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+- Clone: `git clone git@github.com:YunaiV/SpringBoot-Labs.git`
+- Stars: 12832, Forks: 4222
+- language: Java, HTML, Shell, Lua
 
 [JustAuth](https://github.com/justauth/JustAuth) :
 
@@ -188,23 +208,15 @@
 - Owner: [justauth](https://github.com/justauth)
 - Description: 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
 - Clone: `git clone git@github.com:justauth/JustAuth.git`
-- Stars: 12229, Forks: 2190
+- Stars: 12556, Forks: 2244
 - language: Java, Shell
-
-[SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) :
-
-- Owner: [YunaiV](https://github.com/YunaiV)
-- Description: 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
-- Clone: `git clone git@github.com:YunaiV/SpringBoot-Labs.git`
-- Stars: 12010, Forks: 3950
-- language: Java, HTML, Shell, Lua
 
 [spring-analysis](https://github.com/seaswalker/spring-analysis) :
 
 - Owner: [seaswalker](https://github.com/seaswalker)
 - Description: Spring源码阅读
 - Clone: `git clone git@github.com:seaswalker/spring-analysis.git`
-- Stars: 10813, Forks: 3570
+- Stars: 11268, Forks: 3689
 - language: Java
 
 [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) :
@@ -213,24 +225,33 @@
 - Owner: [frank-lam](https://github.com/frank-lam)
 - Description: 🚀 fullstack tutorial 2021，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 - Clone: `git clone git@github.com:frank-lam/fullstack-tutorial.git`
-- Stars: 10100, Forks: 2292
+- Stars: 10257, Forks: 2319
 - language: Java, Shell
 
 [termux-app](https://github.com/termux/termux-app) :
 
-- [Website](https://f-droid.org/en/packages/com.termux/)
+- [Website](https://f-droid.org/en/packages/com.termux)
 - Owner: [termux](https://github.com/termux)
 - Description: Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - Clone: `git clone git@github.com:termux/termux-app.git`
-- Stars: 9210, Forks: 1318
+- Stars: 10114, Forks: 1458
 - language: Java, C, Shell, Assembly, Makefile
+
+[leetcode](https://github.com/doocs/leetcode) :
+
+- [Website](https://doocs.github.io/leetcode)
+- Owner: [doocs](https://github.com/doocs)
+- Description: 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+- Clone: `git clone git@github.com:doocs/leetcode.git`
+- Stars: 9430, Forks: 1845
+- language: Java, Python, C++, Go, C#, JavaScript, TypeScript, Rust, Ruby, HTML, Nim, Swift, Shell, C, Kotlin, Scala
 
 [algorithm-base](https://github.com/chefyuan/algorithm-base) :
 
 - Owner: [chefyuan](https://github.com/chefyuan)
 - Description: 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
 - Clone: `git clone git@github.com:chefyuan/algorithm-base.git`
-- Stars: 9067, Forks: 1335
+- Stars: 9415, Forks: 1389
 - language: Java
 
 [Android_Data](https://github.com/Freelander/Android_Data) :
@@ -238,7 +259,7 @@
 - Owner: [Freelander](https://github.com/Freelander)
 - Description: Some Android learning materials, hoping to help you learn Android development.
 - Clone: `git clone git@github.com:Freelander/Android_Data.git`
-- Stars: 8437, Forks: 2060
+- Stars: 8459, Forks: 2056
 - language: Java
 
 [mall-swarm](https://github.com/macrozheng/mall-swarm) :
@@ -247,26 +268,17 @@
 - Owner: [macrozheng](https://github.com/macrozheng)
 - Description: mall-swarm是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
 - Clone: `git clone git@github.com:macrozheng/mall-swarm.git`
-- Stars: 7463, Forks: 3416
+- Stars: 7880, Forks: 3610
 - language: Java, Shell
 
-[jvm](https://github.com/doocs/jvm) :
+[Sa-Token](https://github.com/dromara/Sa-Token) :
 
-- [Website](https://doocs.github.io/jvm)
-- Owner: [doocs](https://github.com/doocs)
-- Description: 🤗 JVM 底层原理最全知识总结
-- Clone: `git clone git@github.com:doocs/jvm.git`
-- Stars: 7441, Forks: 1722
-- language: Java, JavaScript
-
-[leetcode](https://github.com/doocs/leetcode) :
-
-- [Website](https://doocs.github.io/leetcode)
-- Owner: [doocs](https://github.com/doocs)
-- Description: 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-- Clone: `git clone git@github.com:doocs/leetcode.git`
-- Stars: 7273, Forks: 1518
-- language: Java, Python, C++, Go, C#, JavaScript, TypeScript, Rust, Ruby, HTML, Nim, Swift, Shell, C, Kotlin, Scala
+- [Website](http://sa-token.dev33.cn/)
+- Owner: [dromara](https://github.com/dromara)
+- Description: 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
+- Clone: `git clone git@github.com:dromara/Sa-Token.git`
+- Stars: 7516, Forks: 1377
+- language: Java, HTML, CSS, JavaScript, Batchfile
 
 [source-code-hunter](https://github.com/doocs/source-code-hunter) :
 
@@ -274,7 +286,7 @@
 - Owner: [doocs](https://github.com/doocs)
 - Description: 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
 - Clone: `git clone git@github.com:doocs/source-code-hunter.git`
-- Stars: 7143, Forks: 1332
+- Stars: 7401, Forks: 1428
 - language: Java
 
 [algs4](https://github.com/kevin-wayne/algs4) :
@@ -283,24 +295,15 @@
 - Owner: [kevin-wayne](https://github.com/kevin-wayne)
 - Description: Algorithms, 4th edition textbook code and libraries
 - Clone: `git clone git@github.com:kevin-wayne/algs4.git`
-- Stars: 6761, Forks: 2512
+- Stars: 6836, Forks: 2541
 - language: Java
-
-[Sa-Token](https://github.com/dromara/Sa-Token) :
-
-- [Website](http://sa-token.dev33.cn/)
-- Owner: [dromara](https://github.com/dromara)
-- Description: 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
-- Clone: `git clone git@github.com:dromara/Sa-Token.git`
-- Stars: 6443, Forks: 1155
-- language: Java, HTML, CSS, JavaScript, Batchfile
 
 [LeetCode](https://github.com/yuanguangxin/LeetCode) :
 
 - Owner: [yuanguangxin](https://github.com/yuanguangxin)
 - Description: LeetCode刷题记录与面试整理
 - Clone: `git clone git@github.com:yuanguangxin/LeetCode.git`
-- Stars: 6350, Forks: 1738
+- Stars: 6470, Forks: 1768
 - language: Java
 
 [Java-Tutorial](https://github.com/h2pl/Java-Tutorial) :
@@ -309,17 +312,8 @@
 - Owner: [h2pl](https://github.com/h2pl)
 - Description: 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！
 - Clone: `git clone git@github.com:h2pl/Java-Tutorial.git`
-- Stars: 5238, Forks: 1315
+- Stars: 5366, Forks: 1354
 - language: Java
-
-[janusgraph](https://github.com/JanusGraph/janusgraph) :
-
-- [Website](https://janusgraph.org)
-- Owner: [JanusGraph](https://github.com/JanusGraph)
-- Description: JanusGraph: an open-source, distributed graph database
-- Clone: `git clone git@github.com:JanusGraph/janusgraph.git`
-- Stars: 4195, Forks: 1018
-- language: Java, Shell, Groovy, Batchfile, Dockerfile, Python, Makefile
 
 [airbyte](https://github.com/airbytehq/airbyte) :
 
@@ -327,39 +321,48 @@
 - Owner: [airbytehq](https://github.com/airbytehq)
 - Description: Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 - Clone: `git clone git@github.com:airbytehq/airbyte.git`
-- Stars: 4149, Forks: 549
-- language: Java, Python, TypeScript, Shell, Dockerfile, Handlebars, JavaScript, Ruby, HCL, Smarty, CSS, HTML, Groovy
+- Stars: 4959, Forks: 790
+- language: Java, Python, TypeScript, Shell, Dockerfile, Handlebars, JavaScript, Ruby, HCL, PLpgSQL, CSS, Smarty, TSQL, HTML, Groovy, Makefile
+
+[janusgraph](https://github.com/JanusGraph/janusgraph) :
+
+- [Website](https://janusgraph.org)
+- Owner: [JanusGraph](https://github.com/JanusGraph)
+- Description: JanusGraph: an open-source, distributed graph database
+- Clone: `git clone git@github.com:JanusGraph/janusgraph.git`
+- Stars: 4279, Forks: 1051
+- language: Java, Shell, Groovy, Batchfile, Dockerfile, Python, Makefile
 
 [JGrowing](https://github.com/javagrowing/JGrowing) :
 
 - Owner: [javagrowing](https://github.com/javagrowing)
 - Description: Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。
 - Clone: `git clone git@github.com:javagrowing/JGrowing.git`
-- Stars: 4100, Forks: 885
+- Stars: 4161, Forks: 891
 - language: Java
-
-[Android](https://github.com/hmkcode/Android) :
-
-- Owner: [hmkcode](https://github.com/hmkcode)
-- Description: Android related examples
-- Clone: `git clone git@github.com:hmkcode/Android.git`
-- Stars: 3230, Forks: 3413
-- language: Java, Kotlin
 
 [concurrent](https://github.com/RedSpider1/concurrent) :
 
 - Owner: [RedSpider1](https://github.com/RedSpider1)
 - Description: 这是RedSpider社区成员原创与维护的Java多线程系列文章。
 - Clone: `git clone git@github.com:RedSpider1/concurrent.git`
-- Stars: 3191, Forks: 489
+- Stars: 3354, Forks: 512
 - language: Java, Dockerfile
+
+[Android](https://github.com/hmkcode/Android) :
+
+- Owner: [hmkcode](https://github.com/hmkcode)
+- Description: Android related examples
+- Clone: `git clone git@github.com:hmkcode/Android.git`
+- Stars: 3247, Forks: 3410
+- language: Java, Kotlin
 
 [interviewGuide](https://github.com/NotFound9/interviewGuide) :
 
 - Owner: [NotFound9](https://github.com/NotFound9)
 - Description: 《大厂面试指北》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。最佳阅读地址：http://notfound9.github.io/interviewGuide/
 - Clone: `git clone git@github.com:NotFound9/interviewGuide.git`
-- Stars: 2926, Forks: 544
+- Stars: 3121, Forks: 587
 - language: Java
 
 [geektime-spring-family](https://github.com/geektime-geekbang/geektime-spring-family) :
@@ -367,7 +370,7 @@
 - Owner: [geektime-geekbang](https://github.com/geektime-geekbang)
 - Description: 极客时间视频课程《玩转Spring全家桶》
 - Clone: `git clone git@github.com:geektime-geekbang/geektime-spring-family.git`
-- Stars: 2785, Forks: 1853
+- Stars: 2787, Forks: 1858
 - language: Java, TSQL, HTML, Dockerfile
 
 [Twitter4J](https://github.com/Twitter4J/Twitter4J) :
@@ -376,7 +379,7 @@
 - Owner: [Twitter4J](https://github.com/Twitter4J)
 - Description: Twitter4J is an open-sourced, mavenized and Google App Engine safe Java library for the Twitter API which is released under the Apache License 2.0.
 - Clone: `git clone git@github.com:Twitter4J/Twitter4J.git`
-- Stars: 2580, Forks: 1136
+- Stars: 2591, Forks: 1136
 - language: Java, Shell, Batchfile
 
 [shopizer](https://github.com/shopizer-ecommerce/shopizer) :
@@ -385,8 +388,8 @@
 - Owner: [shopizer-ecommerce](https://github.com/shopizer-ecommerce)
 - Description: Shopizer java e-commerce software
 - Clone: `git clone git@github.com:shopizer-ecommerce/shopizer.git`
-- Stars: 2462, Forks: 2167
-- language: Java, CSS, JavaScript, HTML, FreeMarker, SCSS, Less, Dockerfile
+- Stars: 2542, Forks: 2224
+- language: Java, FreeMarker, Dockerfile
 
 [my-site](https://github.com/WinterChenS/my-site) :
 
@@ -394,15 +397,15 @@
 - Owner: [WinterChenS](https://github.com/WinterChenS)
 - Description: springboot2.0开发的个人网站，集成了：个人首页，个人博客，个人作品
 - Clone: `git clone git@github.com:WinterChenS/my-site.git`
-- Stars: 2172, Forks: 800
+- Stars: 2321, Forks: 830
 - language: Java, SCSS, PLpgSQL, PHP, Shell, Dockerfile
 
-[30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8) :
+[30-seconds-of-java8](https://github.com/hellokaton/30-seconds-of-java8) :
 
-- Owner: [biezhi](https://github.com/biezhi)
+- Owner: [hellokaton](https://github.com/hellokaton)
 - Description: 30 seconds to collect useful Java 8 snippet.
-- Clone: `git clone git@github.com:biezhi/30-seconds-of-java8.git`
-- Stars: 2020, Forks: 369
+- Clone: `git clone git@github.com:hellokaton/30-seconds-of-java8.git`
+- Stars: 2047, Forks: 382
 - language: Java
 
 [dozer](https://github.com/DozerMapper/dozer) :
@@ -411,16 +414,8 @@
 - Owner: [DozerMapper](https://github.com/DozerMapper)
 - Description: Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another. 
 - Clone: `git clone git@github.com:DozerMapper/dozer.git`
-- Stars: 1916, Forks: 464
+- Stars: 1934, Forks: 464
 - language: Java, Shell
-
-[Lealone](https://github.com/lealone/Lealone) :
-
-- Owner: [lealone](https://github.com/lealone)
-- Description: 极具创新的面向单机与分布式 OLTP 场景的异步化 NewSQL 关系数据库
-- Clone: `git clone git@github.com:lealone/Lealone.git`
-- Stars: 1733, Forks: 402
-- language: Java, Batchfile, Shell
 
 [javacore](https://github.com/dunwu/javacore) :
 
@@ -428,17 +423,16 @@
 - Owner: [dunwu](https://github.com/dunwu)
 - Description: :coffee: JavaCore 是对 Java 核心技术的经验总结。
 - Clone: `git clone git@github.com:dunwu/javacore.git`
-- Stars: 1559, Forks: 310
+- Stars: 1805, Forks: 349
 - language: Java, JavaScript, Shell, RobotFramework
 
-[Algorithm-Guide](https://github.com/Xunzhuo/Algorithm-Guide) :
+[Lealone](https://github.com/lealone/Lealone) :
 
-- [Website](https://www.liuxunzhuo.com)
-- Owner: [Xunzhuo](https://github.com/Xunzhuo)
-- Description: BITLIU`s Tutorials of Algorithm and Data Structure🚀🚀🚀
-- Clone: `git clone git@github.com:Xunzhuo/Algorithm-Guide.git`
-- Stars: 1365, Forks: 210
-- language: Java
+- Owner: [lealone](https://github.com/lealone)
+- Description: 极具创新的面向微服务和 OLTP/OLAP 场景的单机与分布式关系数据库
+- Clone: `git clone git@github.com:lealone/Lealone.git`
+- Stars: 1802, Forks: 413
+- language: Java, Batchfile, Shell
 
 [CompreFace](https://github.com/exadel-inc/CompreFace) :
 
@@ -446,16 +440,25 @@
 - Owner: [exadel-inc](https://github.com/exadel-inc)
 - Description: Leading free and open-source face recognition system
 - Clone: `git clone git@github.com:exadel-inc/CompreFace.git`
-- Stars: 1285, Forks: 127
-- language: Java, TypeScript, Python, HTML, SCSS, Dockerfile, Shell, Makefile, JavaScript
+- Stars: 1535, Forks: 176
+- language: Java, TypeScript, Python, HTML, SCSS, Dockerfile, Shell, Makefile, JavaScript, HCL
+
+[Algorithm-Guide](https://github.com/Xunzhuo/Algorithm-Guide) :
+
+- [Website](https://www.liuxunzhuo.com)
+- Owner: [Xunzhuo](https://github.com/Xunzhuo)
+- Description: Xunzhuo`s Tutorials of Algorithm and Data Structure🚀🚀🚀
+- Clone: `git clone git@github.com:Xunzhuo/Algorithm-Guide.git`
+- Stars: 1411, Forks: 224
+- language: Java
 
 [learning-note](https://github.com/rbmonster/learning-note) :
 
 - Owner: [rbmonster](https://github.com/rbmonster)
 - Description: java开发 面试八股文（个人的面试及工作总结）
 - Clone: `git clone git@github.com:rbmonster/learning-note.git`
-- Stars: 810, Forks: 182
-- language: Java, Python
+- Stars: 1002, Forks: 226
+- language: Java, Python, HTML
 
 [java-tutorial](https://github.com/dunwu/java-tutorial) :
 
@@ -463,24 +466,42 @@
 - Owner: [dunwu](https://github.com/dunwu)
 - Description: :coffee: 老司机在 Java 技术领域的十年积累。
 - Clone: `git clone git@github.com:dunwu/java-tutorial.git`
-- Stars: 786, Forks: 144
+- Stars: 879, Forks: 159
 - language: Java, HTML, Shell, XSLT, CSS, JavaScript
 
-[oh-my-email](https://github.com/biezhi/oh-my-email) :
+[toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) :
 
-- Owner: [biezhi](https://github.com/biezhi)
+- [Website](https://itwanger.gitee.io/tobebetterjavaer)
+- Owner: [itwanger](https://github.com/itwanger)
+- Description: Java 程序员进阶之路，该专栏风趣幽默、通俗易懂，对 Java 爱好者极度友好和舒适😄，内容包括但不限于 Java 基础、Java 集合框架、Java IO、Java 并发编程、Java 虚拟机、Java 企业级开发（Git、SSM、Spring Boot）等核心知识点。
+- Clone: `git clone git@github.com:itwanger/toBeBetterJavaer.git`
+- Stars: 867, Forks: 132
+- language: Java, HTML
+
+[mogu_blog_v2](https://github.com/moxi624/mogu_blog_v2) :
+
+- [Website](http://www.moguit.cn/#/)
+- Owner: [moxi624](https://github.com/moxi624)
+- Description: 蘑菇博客(MoguBlog)，一个基于微服务架构的前后端分离博客系统。Web端使用Vue + Element , 移动端使用uniapp和ColorUI。后端使用Spring cloud + Spring boot + mybatis-plus进行开发，使用 Jwt + Spring Security做登录验证和权限校验，使用ElasticSearch和Solr作为全文检索服务，使用Github Actions完成博客的持续集成，使用ELK收集博客日志，文件支持上传七牛云和Minio，支持Docker Compose脚本一键部署。
+- Clone: `git clone git@github.com:moxi624/mogu_blog_v2.git`
+- Stars: 850, Forks: 325
+- language: Java, Vue, JavaScript, CSS, HTML, SCSS, FreeMarker, Shell, Dockerfile, Stylus
+
+[oh-my-email](https://github.com/hellokaton/oh-my-email) :
+
+- Owner: [hellokaton](https://github.com/hellokaton)
 - Description: 📪 可能是最小的 Java 邮件发送库了，支持抄送、附件、模板等功能。
-- Clone: `git clone git@github.com:biezhi/oh-my-email.git`
-- Stars: 640, Forks: 180
+- Clone: `git clone git@github.com:hellokaton/oh-my-email.git`
+- Stars: 639, Forks: 184
 - language: Java, HTML
 
 [smart-doc](https://github.com/smart-doc-group/smart-doc) :
 
-- [Website](https://github.com/smart-doc-group/smart-doc/wiki)
+- [Website](https://smart-doc-group.github.io/#/)
 - Owner: [smart-doc-group](https://github.com/smart-doc-group)
 - Description: Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.
 - Clone: `git clone git@github.com:smart-doc-group/smart-doc.git`
-- Stars: 511, Forks: 109
+- Stars: 582, Forks: 124
 - language: Java, HTML, JavaScript, CSS
 
 [ballcat](https://github.com/ballcat-projects/ballcat) :
@@ -489,17 +510,8 @@
 - Owner: [ballcat-projects](https://github.com/ballcat-projects)
 - Description: 😸一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷starter进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS过滤，SQL防注入，国际化 等多种功能
 - Clone: `git clone git@github.com:ballcat-projects/ballcat.git`
-- Stars: 436, Forks: 113
+- Stars: 520, Forks: 129
 - language: Java
-
-[toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) :
-
-- [Website](https://itwanger.gitee.io/tobebetterjavaer)
-- Owner: [itwanger](https://github.com/itwanger)
-- Description: Java 程序员进阶之路，风趣幽默、通俗易懂，对 Java 初学者极度友好和舒适😘，内容包括但不限于 Java 语法、Java 集合框架、Java IO、Java 并发编程、Java 虚拟机等核心知识点。
-- Clone: `git clone git@github.com:itwanger/toBeBetterJavaer.git`
-- Stars: 387, Forks: 57
-- language: Java, HTML
 
 [mblog](https://github.com/langhsu/mblog) :
 
@@ -507,7 +519,7 @@
 - Owner: [langhsu](https://github.com/langhsu)
 - Description: 开源免费的Java博客系统, 采用spring-boot、spring-data-jpa、shiro、freemarker、bootstrap等框架, 支持Docker
 - Clone: `git clone git@github.com:langhsu/mblog.git`
-- Stars: 364, Forks: 193
+- Stars: 389, Forks: 199
 - language: Java, FreeMarker, HTML, Shell, Dockerfile
 
 [JsoupXpath](https://github.com/zhegexiaohuozi/JsoupXpath) :
@@ -515,24 +527,8 @@
 - Owner: [zhegexiaohuozi](https://github.com/zhegexiaohuozi)
 - Description: 纯Java实现的支持W3C Xpath 1.0标准语法的HTML解析器。A html parser with xpath base on Jsoup and Antlr4. Maybe it is the best in java.Just try it. 
 - Clone: `git clone git@github.com:zhegexiaohuozi/JsoupXpath.git`
-- Stars: 355, Forks: 126
+- Stars: 365, Forks: 132
 - language: Java, HTML, ANTLR
-
-[spring-boot-vue-admin](https://github.com/Zoctan/spring-boot-vue-admin) :
-
-- Owner: [Zoctan](https://github.com/Zoctan)
-- Description: 前端Vue +  后端Spring Boot 完全分离的用户角色管理模板
-- Clone: `git clone git@github.com:Zoctan/spring-boot-vue-admin.git`
-- Stars: 290, Forks: 136
-- language: Java, Vue, JavaScript, TSQL, FreeMarker, CSS, HTML, Shell
-
-[crud-intellij-plugin](https://github.com/mars05/crud-intellij-plugin) :
-
-- Owner: [mars05](https://github.com/mars05)
-- Description: 一个增删改查的idea插件，可以根据数据库表结构，帮助您快速生成model、dao、service、controller等相关代码。同时支持MyBatis、JPA、MybatisPlus。
-- Clone: `git clone git@github.com:mars05/crud-intellij-plugin.git`
-- Stars: 248, Forks: 63
-- language: Java, FreeMarker
 
 [LearningNotes](https://github.com/moxi624/LearningNotes) :
 
@@ -540,8 +536,16 @@
 - Owner: [moxi624](https://github.com/moxi624)
 - Description: Java学习笔记，主要来源于B站上视频的学习，同时会记录平时一些学习和项目中遇到的问题，同步更新在蘑菇博客，如果对我的博客网站感兴趣的话，欢迎关注我的 蘑菇博客项目 笔记主要涵盖：Java，Spring，SpringCloud，计算机网络，操作系统，数据结构，Vue等 如果笔记对您有帮助的话，欢迎star支持，谢谢~
 - Clone: `git clone git@github.com:moxi624/LearningNotes.git`
-- Stars: 242, Forks: 69
+- Stars: 304, Forks: 81
 - language: Java, Go, Python, HTML, JavaScript, Vue, CSS, Shell
+
+[spring-boot-vue-admin](https://github.com/Zoctan/spring-boot-vue-admin) :
+
+- Owner: [Zoctan](https://github.com/Zoctan)
+- Description: 前端Vue +  后端Spring Boot 完全分离的用户角色管理模板
+- Clone: `git clone git@github.com:Zoctan/spring-boot-vue-admin.git`
+- Stars: 297, Forks: 139
+- language: Java, Vue, JavaScript, TSQL, FreeMarker, CSS, HTML, Shell
 
 [easy_javadoc](https://github.com/starcwang/easy_javadoc) :
 
@@ -549,15 +553,31 @@
 - Owner: [starcwang](https://github.com/starcwang)
 - Description: IntelliJ IDEA 插件，自动生成javadoc文档注释
 - Clone: `git clone git@github.com:starcwang/easy_javadoc.git`
-- Stars: 221, Forks: 31
+- Stars: 271, Forks: 35
 - language: Java
+
+[crud-intellij-plugin](https://github.com/mars05/crud-intellij-plugin) :
+
+- Owner: [mars05](https://github.com/mars05)
+- Description: 一个增删改查的idea插件，可以根据数据库表结构，帮助您快速生成model、dao、service、controller等相关代码。同时支持MyBatis、JPA、MybatisPlus。
+- Clone: `git clone git@github.com:mars05/crud-intellij-plugin.git`
+- Stars: 256, Forks: 67
+- language: Java, FreeMarker
+
+[LogiCommon](https://github.com/didi/LogiCommon) :
+
+- Owner: [didi](https://github.com/didi)
+- Description: Java版 认证、鉴权、管理、任务调度通用功能组件
+- Clone: `git clone git@github.com:didi/LogiCommon.git`
+- Stars: 153, Forks: 42
+- language: Java, Shell
 
 [spring-boot-route](https://github.com/binzh303/spring-boot-route) :
 
 - Owner: [binzh303](https://github.com/binzh303)
 - Description: Spring Boot 技术栈学习分享，涵盖了基础知识、Web开发、数据访问、缓存服务、消息队列、日志管理、服务监控、定时任务及其他的一些相关知识
 - Clone: `git clone git@github.com:binzh303/spring-boot-route.git`
-- Stars: 143, Forks: 63
+- Stars: 148, Forks: 65
 - language: Java, HTML
 
 [octopus](https://github.com/zjcscut/octopus) :
@@ -565,7 +585,7 @@
 - Owner: [zjcscut](https://github.com/zjcscut)
 - Description: 长链接压缩为短链接的服务
 - Clone: `git clone git@github.com:zjcscut/octopus.git`
-- Stars: 104, Forks: 40
+- Stars: 125, Forks: 45
 - language: Java
 
 [segment](https://github.com/houbb/segment) :
@@ -573,7 +593,7 @@
 - Owner: [houbb](https://github.com/houbb)
 - Description: The jieba-analysis tool for java.（基于结巴分词词库实现的更加灵活优雅易用，高性能的 java 分词实现。支持词性标注。）
 - Clone: `git clone git@github.com:houbb/segment.git`
-- Stars: 51, Forks: 8
+- Stars: 56, Forks: 9
 - language: Java, Shell, Batchfile
 
 [Instagram-Downloader](https://github.com/Philipinho/Instagram-Downloader) :
@@ -581,10 +601,10 @@
 - Owner: [Philipinho](https://github.com/Philipinho)
 - Description: Instagram video and image downloader written in Java
 - Clone: `git clone git@github.com:Philipinho/Instagram-Downloader.git`
-- Stars: 31, Forks: 8
+- Stars: 31, Forks: 10
 - language: Java
 
-## <span id="0ec0dcea-1724-46eb-a415-bc3573973bbc">JavaScript</span>
+## <span id="db06f60b-a88d-4e23-93a4-f1b0be41a09b">JavaScript</span>
 
 [awesome-mac](https://github.com/jaywcjlove/awesome-mac) :
 
@@ -592,7 +612,7 @@
 - Owner: [jaywcjlove](https://github.com/jaywcjlove)
 - Description:  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - Clone: `git clone git@github.com:jaywcjlove/awesome-mac.git`
-- Stars: 45618, Forks: 4977
+- Stars: 46719, Forks: 5074
 - language: JavaScript
 
 [faker.js](https://github.com/Marak/faker.js) :
@@ -600,7 +620,7 @@
 - Owner: [Marak](https://github.com/Marak)
 - Description: generate massive amounts of realistic fake data in Node.js and the browser
 - Clone: `git clone git@github.com:Marak/faker.js.git`
-- Stars: 33602, Forks: 2873
+- Stars: 34344, Forks: 2936
 - language: JavaScript, HTML, CoffeeScript
 
 [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) :
@@ -609,7 +629,7 @@
 - Owner: [zhaoolee](https://github.com/zhaoolee)
 - Description: 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - Clone: `git clone git@github.com:zhaoolee/ChromeAppHeroes.git`
-- Stars: 18847, Forks: 2115
+- Stars: 19058, Forks: 2131
 - language: JavaScript, CSS, HTML, Python
 
 [baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) :
@@ -618,8 +638,16 @@
 - Owner: [b3log](https://github.com/b3log)
 - Description: ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。
 - Clone: `git clone git@github.com:b3log/baidu-netdisk-downloaderx.git`
-- Stars: 17323, Forks: 3401
+- Stars: 17313, Forks: 3376
 
+
+[MockingBird](https://github.com/babysor/MockingBird) :
+
+- Owner: [babysor](https://github.com/babysor)
+- Description: 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- Clone: `git clone git@github.com:babysor/MockingBird.git`
+- Stars: 15062, Forks: 1838
+- language: JavaScript, Python, HTML
 
 [cz-cli](https://github.com/commitizen/cz-cli) :
 
@@ -627,8 +655,8 @@
 - Owner: [commitizen](https://github.com/commitizen)
 - Description: The commitizen command line utility. #BlackLivesMatter
 - Clone: `git clone git@github.com:commitizen/cz-cli.git`
-- Stars: 12208, Forks: 485
-- language: JavaScript, Batchfile
+- Stars: 12683, Forks: 510
+- language: JavaScript, Shell, Batchfile
 
 [d2-admin](https://github.com/d2-projects/d2-admin) :
 
@@ -636,7 +664,7 @@
 - Owner: [d2-projects](https://github.com/d2-projects)
 - Description: An elegant dashboard
 - Clone: `git clone git@github.com:d2-projects/d2-admin.git`
-- Stars: 10887, Forks: 2132
+- Stars: 11016, Forks: 2174
 - language: JavaScript, Vue, CSS, HTML, SCSS, Java, Shell
 
 [showdoc](https://github.com/star7th/showdoc) :
@@ -645,16 +673,17 @@
 - Owner: [star7th](https://github.com/star7th)
 - Description: ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 - Clone: `git clone git@github.com:star7th/showdoc.git`
-- Stars: 9910, Forks: 1982
+- Stars: 10107, Forks: 2002
 - language: JavaScript, PHP, CSS, Vue, Smarty, HTML, Dockerfile
 
-[MockingBird](https://github.com/babysor/MockingBird) :
+[budibase](https://github.com/Budibase/budibase) :
 
-- Owner: [babysor](https://github.com/babysor)
-- Description: 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- Clone: `git clone git@github.com:babysor/MockingBird.git`
-- Stars: 7683, Forks: 752
-- language: JavaScript, Python, HTML
+- [Website](https://budibase.com)
+- Owner: [Budibase](https://github.com/Budibase)
+- Description: Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀 
+- Clone: `git clone git@github.com:Budibase/budibase.git`
+- Stars: 8103, Forks: 433
+- language: JavaScript, Svelte, TypeScript, Shell, Handlebars, CSS, Smarty, Dockerfile, TSQL, HTML
 
 [SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) :
 
@@ -662,7 +691,7 @@
 - Owner: [Hackl0us](https://github.com/Hackl0us)
 - Description: 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 - Clone: `git clone git@github.com:Hackl0us/SS-Rule-Snippet.git`
-- Stars: 6767, Forks: 1543
+- Stars: 7355, Forks: 1638
 - language: JavaScript
 
 [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) :
@@ -671,8 +700,16 @@
 - Owner: [sxei](https://github.com/sxei)
 - Description: 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
 - Clone: `git clone git@github.com:sxei/chrome-plugin-demo.git`
-- Stars: 5977, Forks: 1324
+- Stars: 6210, Forks: 1406
 - language: JavaScript, HTML, CSS
+
+[dev-sidecar](https://github.com/docmirror/dev-sidecar) :
+
+- Owner: [docmirror](https://github.com/docmirror)
+- Description: 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
+- Clone: `git clone git@github.com:docmirror/dev-sidecar.git`
+- Stars: 6176, Forks: 651
+- language: JavaScript, Vue, SCSS, HTML, NSIS, Shell, Batchfile
 
 [simpread](https://github.com/Kenshin/simpread) :
 
@@ -680,7 +717,7 @@
 - Owner: [Kenshin](https://github.com/Kenshin)
 - Description: 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - Clone: `git clone git@github.com:Kenshin/simpread.git`
-- Stars: 5066, Forks: 406
+- Stars: 5357, Forks: 418
 - language: JavaScript, CSS, HTML, Batchfile
 
 [tool](https://github.com/Louiszhai/tool) :
@@ -688,25 +725,8 @@
 - Owner: [Louiszhai](https://github.com/Louiszhai)
 - Description: 开发效率提升：Mac生产力工具链推荐
 - Clone: `git clone git@github.com:Louiszhai/tool.git`
-- Stars: 5065, Forks: 448
+- Stars: 5108, Forks: 453
 - language: JavaScript, Shell
-
-[dev-sidecar](https://github.com/docmirror/dev-sidecar) :
-
-- Owner: [docmirror](https://github.com/docmirror)
-- Description: 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
-- Clone: `git clone git@github.com:docmirror/dev-sidecar.git`
-- Stars: 5020, Forks: 495
-- language: JavaScript, Vue, SCSS, HTML, Shell, Batchfile
-
-[budibase](https://github.com/Budibase/budibase) :
-
-- [Website](https://www.budibase.com)
-- Owner: [Budibase](https://github.com/Budibase)
-- Description: Budibase is an open-source low code platform that helps IT professionals build, automate and self-host internal tools in minutes 🚀 
-- Clone: `git clone git@github.com:Budibase/budibase.git`
-- Stars: 5020, Forks: 259
-- language: JavaScript, Svelte, TypeScript, Handlebars, CSS, Shell, Mustache, Smarty, Dockerfile, HTML
 
 [Surfingkeys](https://github.com/brookhong/Surfingkeys) :
 
@@ -714,15 +734,15 @@
 - Owner: [brookhong](https://github.com/brookhong)
 - Description: Map your keys for web surfing, expand your browser with javascript and keyboard.
 - Clone: `git clone git@github.com:brookhong/Surfingkeys.git`
-- Stars: 3697, Forks: 376
-- language: JavaScript, CSS, HTML
+- Stars: 3792, Forks: 380
+- language: JavaScript, TypeScript, CSS, Lua, HTML, Shell, Batchfile
 
 [Gitter](https://github.com/nslog11/Gitter) :
 
 - Owner: [nslog11](https://github.com/nslog11)
 - Description: Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
 - Clone: `git clone git@github.com:nslog11/Gitter.git`
-- Stars: 3485, Forks: 274
+- Stars: 3498, Forks: 276
 - language: JavaScript, Less, HTML
 
 [MikuTools](https://github.com/Ice-Hazymoon/MikuTools) :
@@ -731,7 +751,7 @@
 - Owner: [Ice-Hazymoon](https://github.com/Ice-Hazymoon)
 - Description: 一个轻量的工具集合
 - Clone: `git clone git@github.com:Ice-Hazymoon/MikuTools.git`
-- Stars: 2907, Forks: 508
+- Stars: 2967, Forks: 515
 - language: JavaScript, Vue, HTML, SCSS, CSS, Dockerfile
 
 [smarGate](https://github.com/lazy-luo/smarGate) :
@@ -739,7 +759,7 @@
 - Owner: [lazy-luo](https://github.com/lazy-luo)
 - Description: 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
 - Clone: `git clone git@github.com:lazy-luo/smarGate.git`
-- Stars: 2138, Forks: 289
+- Stars: 2320, Forks: 305
 - language: JavaScript
 
 [alfred-workflows](https://github.com/willfarrell/alfred-workflows) :
@@ -747,7 +767,7 @@
 - Owner: [willfarrell](https://github.com/willfarrell)
 - Description: Alfred Workflows for Developers
 - Clone: `git clone git@github.com:willfarrell/alfred-workflows.git`
-- Stars: 1913, Forks: 98
+- Stars: 1923, Forks: 98
 - language: JavaScript
 
 [openmtp](https://github.com/ganeshrvel/openmtp) :
@@ -756,7 +776,7 @@
 - Owner: [ganeshrvel](https://github.com/ganeshrvel)
 - Description: OpenMTP  - Advanced Android File Transfer Application for macOS
 - Clone: `git clone git@github.com:ganeshrvel/openmtp.git`
-- Stars: 1481, Forks: 63
+- Stars: 1613, Forks: 71
 - language: JavaScript, SCSS, Go, HTML, C, Shell
 
 [Wechatsync](https://github.com/wechatsync/Wechatsync) :
@@ -765,8 +785,25 @@
 - Owner: [wechatsync](https://github.com/wechatsync)
 - Description: 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - Clone: `git clone git@github.com:wechatsync/Wechatsync.git`
-- Stars: 913, Forks: 140
+- Stars: 1077, Forks: 168
 - language: JavaScript, CSS, PHP, Vue, HTML, SCSS, Shell
+
+[Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) :
+
+- [Website](https://extensions.redeviation.com/)
+- Owner: [Kiuryy](https://github.com/Kiuryy)
+- Description: Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
+- Clone: `git clone git@github.com:Kiuryy/Bookmark_Sidebar.git`
+- Stars: 736, Forks: 97
+- language: JavaScript, SCSS, HTML
+
+[Bangumi](https://github.com/czy0729/Bangumi) :
+
+- Owner: [czy0729](https://github.com/czy0729)
+- Description: :dizzy:  An unofficial bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不盈利的 bgm.tv 第三方客户端。简单比喻就是专门做ACG的类豆瓣应用。专门为移动端重新设计，已适配 iOS / Android、mobile / pad、light / dark theme，并加入了很多网页端难以实现的增强型功能。
+- Clone: `git clone git@github.com:czy0729/Bangumi.git`
+- Stars: 704, Forks: 34
+- language: JavaScript, TypeScript, Java, HTML, CSS, Starlark
 
 [google-access-helper](https://github.com/Kenguba/google-access-helper) :
 
@@ -774,7 +811,7 @@
 - Owner: [Kenguba](https://github.com/Kenguba)
 - Description: 谷歌访问助手破解版、谷歌翻墙、谷歌梯子、谷歌梯子扩展工具、谷歌商店访问、Chrome翻墙
 - Clone: `git clone git@github.com:Kenguba/google-access-helper.git`
-- Stars: 620, Forks: 206
+- Stars: 654, Forks: 218
 - language: JavaScript, HTML
 
 [codeexpander](https://github.com/oncework/codeexpander) :
@@ -783,7 +820,7 @@
 - Owner: [oncework](https://github.com/oncework)
 - Description: A cross-platform cloud synchronization development tool for developers that includes input enhancement, code snippet management, and Markdown. (专为开发者开发的一个集输入增强、代码片段管理(支持 Markdown)为一体跨平台云同步的开发工具。)
 - Clone: `git clone git@github.com:oncework/codeexpander.git`
-- Stars: 324, Forks: 16
+- Stars: 333, Forks: 18
 - language: JavaScript, Vue, Shell
 
 [google-access-helper2021](https://github.com/zcjunblog/google-access-helper2021) :
@@ -791,18 +828,36 @@
 - Owner: [zcjunblog](https://github.com/zcjunblog)
 - Description: google-access-helper谷歌访问助手2021全版本合集，访问谷歌商店，谷歌搜索，谷歌地图等...
 - Clone: `git clone git@github.com:zcjunblog/google-access-helper2021.git`
-- Stars: 147, Forks: 58
-- language: JavaScript, HTML, CSS, Less
+- Stars: 189, Forks: 80
+- language: JavaScript, CSS, HTML, Less
+
+[sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) :
+
+- [Website](https://sub.v1.mk)
+- Owner: [youshandefeiyang](https://github.com/youshandefeiyang)
+- Description: 最美订阅转换前端，UI大改，增加近百条远程配置！
+- Clone: `git clone git@github.com:youshandefeiyang/sub-web-modify.git`
+- Stars: 130, Forks: 42
+- language: JavaScript, Vue, CSS, SCSS, HTML, Shell
 
 [faster-hosts](https://github.com/gauseen/faster-hosts) :
 
 - Owner: [gauseen](https://github.com/gauseen)
 - Description: FasterHosts 加快 GitHub 资源访问速度的 Chrome 插件
 - Clone: `git clone git@github.com:gauseen/faster-hosts.git`
-- Stars: 62, Forks: 3
+- Stars: 116, Forks: 13
 - language: JavaScript
 
-## <span id="c4c0fda6-140b-4014-8983-8b4afe3d0fe5">Python</span>
+[mirigana](https://github.com/mirigana/mirigana) :
+
+- [Website](https://twitter.com/ctx_mirigana)
+- Owner: [mirigana](https://github.com/mirigana)
+- Description: A chrome extension for adding furigana to annotate the tweets
+- Clone: `git clone git@github.com:mirigana/mirigana.git`
+- Stars: 90, Forks: 6
+- language: JavaScript, HTML, Shell
+
+## <span id="b2bbfc3d-e36c-497a-9d15-3fe57ac74680">Python</span>
 
 [youtube-dl](https://github.com/ytdl-org/youtube-dl) :
 
@@ -810,16 +865,16 @@
 - Owner: [ytdl-org](https://github.com/ytdl-org)
 - Description: Command-line program to download videos from YouTube.com and other video sites
 - Clone: `git clone git@github.com:ytdl-org/youtube-dl.git`
-- Stars: 100856, Forks: 6037
+- Stars: 103811, Forks: 6613
 - language: Python, Shell, Makefile, ActionScript, Batchfile
 
 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) :
 
 - [Website](https://hellogithub.com/)
 - Owner: [521xueweihan](https://github.com/521xueweihan)
-- Description: :octocat: 分享 GitHub 上有趣、入门级的开源项目
+- Description: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - Clone: `git clone git@github.com:521xueweihan/HelloGitHub.git`
-- Stars: 47183, Forks: 6870
+- Stars: 49983, Forks: 7210
 - language: Python
 
 [interview_internal_reference](https://github.com/0voice/interview_internal_reference) :
@@ -827,7 +882,7 @@
 - Owner: [0voice](https://github.com/0voice)
 - Description: 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - Clone: `git clone git@github.com:0voice/interview_internal_reference.git`
-- Stars: 32497, Forks: 8807
+- Stars: 33005, Forks: 8941
 - language: Python
 
 [XX-Net](https://github.com/XX-net/XX-Net) :
@@ -835,8 +890,26 @@
 - Owner: [XX-net](https://github.com/XX-net)
 - Description: A proxy tool to bypass GFW.
 - Clone: `git clone git@github.com:XX-net/XX-Net.git`
-- Stars: 30851, Forks: 7825
+- Stars: 30977, Forks: 7813
 - language: Python, HTML, CSS, C, JavaScript, PowerShell, Shell, VBScript, Batchfile
+
+[cheat.sh](https://github.com/chubin/cheat.sh) :
+
+- [Website](https://cheat.sh/)
+- Owner: [chubin](https://github.com/chubin)
+- Description: the only cheat sheet you need
+- Clone: `git clone git@github.com:chubin/cheat.sh.git`
+- Stars: 27809, Forks: 1390
+- language: Python, Shell, HTML, Dockerfile, CSS, Vim script
+
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) :
+
+- [Website](https://discord.gg/H5MNcFW63r)
+- Owner: [yt-dlp](https://github.com/yt-dlp)
+- Description: A youtube-dl fork with additional features and fixes
+- Clone: `git clone git@github.com:yt-dlp/yt-dlp.git`
+- Stars: 14135, Forks: 911
+- language: Python, Shell, Makefile, ActionScript, Batchfile
 
 [ranger](https://github.com/ranger/ranger) :
 
@@ -844,7 +917,7 @@
 - Owner: [ranger](https://github.com/ranger)
 - Description: A VIM-inspired filemanager for the console
 - Clone: `git clone git@github.com:ranger/ranger.git`
-- Stars: 10336, Forks: 688
+- Stars: 10707, Forks: 718
 - language: Python, Shell, Makefile, Dockerfile
 
 [GitHub520](https://github.com/521xueweihan/GitHub520) :
@@ -853,17 +926,16 @@
 - Owner: [521xueweihan](https://github.com/521xueweihan)
 - Description: :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - Clone: `git clone git@github.com:521xueweihan/GitHub520.git`
-- Stars: 7412, Forks: 757
+- Stars: 8812, Forks: 929
 - language: Python
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) :
+[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) :
 
-- [Website](https://discord.gg/H5MNcFW63r)
-- Owner: [yt-dlp](https://github.com/yt-dlp)
-- Description: A youtube-dl fork with additional features and fixes
-- Clone: `git clone git@github.com:yt-dlp/yt-dlp.git`
-- Stars: 6913, Forks: 418
-- language: Python, Shell, Makefile, ActionScript, Batchfile
+- Owner: [xinntao](https://github.com/xinntao)
+- Description: Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.
+- Clone: `git clone git@github.com:xinntao/Real-ESRGAN.git`
+- Stars: 7909, Forks: 731
+- language: Python
 
 [whoogle-search](https://github.com/benbusby/whoogle-search) :
 
@@ -871,8 +943,8 @@
 - Owner: [benbusby](https://github.com/benbusby)
 - Description: A self-hosted, ad-free, privacy-respecting metasearch engine
 - Clone: `git clone git@github.com:benbusby/whoogle-search.git`
-- Stars: 4129, Forks: 423
-- language: Python, HTML, CSS, JavaScript, Shell, Dockerfile
+- Stars: 4655, Forks: 501
+- language: Python, HTML, CSS, JavaScript, Shell, Dockerfile, Smarty
 
 [public-api-lists](https://github.com/public-api-lists/public-api-lists) :
 
@@ -880,7 +952,7 @@
 - Owner: [public-api-lists](https://github.com/public-api-lists)
 - Description: A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - Clone: `git clone git@github.com:public-api-lists/public-api-lists.git`
-- Stars: 3569, Forks: 188
+- Stars: 4022, Forks: 231
 - language: Python
 
 [speechbrain](https://github.com/speechbrain/speechbrain) :
@@ -889,8 +961,8 @@
 - Owner: [speechbrain](https://github.com/speechbrain)
 - Description: A PyTorch-based Speech Toolkit
 - Clone: `git clone git@github.com:speechbrain/speechbrain.git`
-- Stars: 3085, Forks: 500
-- language: Python, Perl, MATLAB, Shell
+- Stars: 3480, Forks: 613
+- language: Python, Perl, Shell, MATLAB
 
 [ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare) :
 
@@ -898,8 +970,16 @@
 - Owner: [the0demiurge](https://github.com/the0demiurge)
 - Description: Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅
 - Clone: `git clone git@github.com:the0demiurge/ShadowSocksShare.git`
-- Stars: 3031, Forks: 1135
+- Stars: 3063, Forks: 1136
 - language: Python, JavaScript, HTML, Shell
+
+[jc](https://github.com/kellyjonbrazil/jc) :
+
+- Owner: [kellyjonbrazil](https://github.com/kellyjonbrazil)
+- Description: CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
+- Clone: `git clone git@github.com:kellyjonbrazil/jc.git`
+- Stars: 2680, Forks: 58
+- language: Python, Shell
 
 [Macast](https://github.com/xfangfang/Macast) :
 
@@ -907,23 +987,15 @@
 - Owner: [xfangfang](https://github.com/xfangfang)
 - Description: Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - Clone: `git clone git@github.com:xfangfang/Macast.git`
-- Stars: 1899, Forks: 99
+- Stars: 2289, Forks: 119
 - language: Python, Dockerfile
-
-[jc](https://github.com/kellyjonbrazil/jc) :
-
-- Owner: [kellyjonbrazil](https://github.com/kellyjonbrazil)
-- Description: CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
-- Clone: `git clone git@github.com:kellyjonbrazil/jc.git`
-- Stars: 1842, Forks: 45
-- language: Python, Shell
 
 [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse) :
 
 - Owner: [TurboWay](https://github.com/TurboWay)
 - Description: 大数据分析项目
 - Clone: `git clone git@github.com:TurboWay/bigdata_analyse.git`
-- Stars: 1156, Forks: 189
+- Stars: 1397, Forks: 258
 - language: Python, HiveQL
 
 [awesome-cn](https://github.com/icopy-site/awesome-cn) :
@@ -932,7 +1004,7 @@
 - Owner: [icopy-site](https://github.com/icopy-site)
 - Description: 超赞列表合集
 - Clone: `git clone git@github.com:icopy-site/awesome-cn.git`
-- Stars: 671, Forks: 99
+- Stars: 740, Forks: 109
 - language: Python, Shell, HTML, Dockerfile
 
 [Github-Ranking](https://github.com/EvanLi/Github-Ranking) :
@@ -941,10 +1013,10 @@
 - Owner: [EvanLi](https://github.com/EvanLi)
 - Description: :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - Clone: `git clone git@github.com:EvanLi/Github-Ranking.git`
-- Stars: 618, Forks: 84
+- Stars: 729, Forks: 101
 - language: Python, Shell, Ruby
 
-## <span id="284015ea-c739-48f1-9c6b-3fc233484192">TypeScript</span>
+## <span id="b21332e8-f4ac-4462-a4c2-7e17144a6179">TypeScript</span>
 
 [amis](https://github.com/baidu/amis) :
 
@@ -952,17 +1024,8 @@
 - Owner: [baidu](https://github.com/baidu)
 - Description: 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - Clone: `git clone git@github.com:baidu/amis.git`
-- Stars: 8182, Forks: 1068
+- Stars: 8969, Forks: 1198
 - language: TypeScript, SCSS, JavaScript, Shell, Python, Dockerfile
-
-[outline-client](https://github.com/Jigsaw-Code/outline-client) :
-
-- [Website](https://getoutline.org/)
-- Owner: [Jigsaw-Code](https://github.com/Jigsaw-Code)
-- Description: Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
-- Clone: `git clone git@github.com:Jigsaw-Code/outline-client.git`
-- Stars: 6429, Forks: 1104
-- language: TypeScript, JavaScript, Java, Objective-C, C++, Swift, C#, Shell, Batchfile, NSIS, Go, Python, AIDL, Dockerfile, Ruby, HTML, CMake, CSS
 
 [autocomplete](https://github.com/withfig/autocomplete) :
 
@@ -970,8 +1033,17 @@
 - Owner: [withfig](https://github.com/withfig)
 - Description: Fig adds autocomplete to your terminal.
 - Clone: `git clone git@github.com:withfig/autocomplete.git`
-- Stars: 6207, Forks: 1343
+- Stars: 8454, Forks: 2184
 - language: TypeScript, JavaScript, Shell
+
+[outline-client](https://github.com/Jigsaw-Code/outline-client) :
+
+- [Website](https://getoutline.org/)
+- Owner: [Jigsaw-Code](https://github.com/Jigsaw-Code)
+- Description: Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
+- Clone: `git clone git@github.com:Jigsaw-Code/outline-client.git`
+- Stars: 6562, Forks: 1136
+- language: TypeScript, JavaScript, Java, Objective-C, C++, Swift, C#, Shell, Batchfile, NSIS, Go, Python, AIDL, Ruby, Dockerfile, HTML, CMake, CSS
 
 [any-rule](https://github.com/any86/any-rule) :
 
@@ -979,15 +1051,15 @@
 - Owner: [any86](https://github.com/any86)
 - Description: 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 - Clone: `git clone git@github.com:any86/any-rule.git`
-- Stars: 5424, Forks: 531
+- Stars: 5722, Forks: 561
 - language: TypeScript, JavaScript
 
 [TypeScript](https://github.com/zhongsp/TypeScript) :
 
 - Owner: [zhongsp](https://github.com/zhongsp)
-- Description: TypeScript使用手册（中文版）翻译。TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org
+- Description: TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
 - Clone: `git clone git@github.com:zhongsp/TypeScript.git`
-- Stars: 5143, Forks: 912
+- Stars: 5394, Forks: 940
 - language: TypeScript
 
 [sparrow](https://github.com/sparrow-js/sparrow) :
@@ -996,7 +1068,7 @@
 - Owner: [sparrow-js](https://github.com/sparrow-js)
 - Description: 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
 - Clone: `git clone git@github.com:sparrow-js/sparrow.git`
-- Stars: 2015, Forks: 255
+- Stars: 2247, Forks: 305
 - language: TypeScript, JavaScript, Vue, HTML, CSS, SCSS, Dockerfile
 
 [PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) :
@@ -1005,7 +1077,7 @@
 - Owner: [xuejianxianzun](https://github.com/xuejianxianzun)
 - Description: Chrome 扩展，批量下载 Pixiv 的插画和小说。过滤作品、下载时重命名、转换动态图片等。Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more.
 - Clone: `git clone git@github.com:xuejianxianzun/PixivBatchDownloader.git`
-- Stars: 1432, Forks: 114
+- Stars: 1575, Forks: 128
 - language: TypeScript, JavaScript, Less, CSS
 
 [yacd](https://github.com/haishanh/yacd) :
@@ -1014,7 +1086,7 @@
 - Owner: [haishanh](https://github.com/haishanh)
 - Description: Yet Another Clash Dashboard
 - Clone: `git clone git@github.com:haishanh/yacd.git`
-- Stars: 1184, Forks: 155
+- Stars: 1325, Forks: 168
 - language: TypeScript, SCSS, CSS, HTML, JavaScript, Dockerfile
 
 [mdi-search](https://github.com/stevermeister/mdi-search) :
@@ -1023,10 +1095,10 @@
 - Owner: [stevermeister](https://github.com/stevermeister)
 - Description: Material Design Icons quick search
 - Clone: `git clone git@github.com:stevermeister/mdi-search.git`
-- Stars: 4, Forks: 0
+- Stars: 4, Forks: 1
 - language: TypeScript, CSS, JavaScript, HTML
 
-## <span id="05a8a4ce-5687-44ec-88e1-cafbc4ebb558">Go</span>
+## <span id="460f4794-70b3-45ed-ba0b-bf47e2fdf430">Go</span>
 
 [cli](https://github.com/cli/cli) :
 
@@ -1034,8 +1106,8 @@
 - Owner: [cli](https://github.com/cli)
 - Description: GitHub’s official command line tool
 - Clone: `git clone git@github.com:cli/cli.git`
-- Stars: 25632, Forks: 2829
-- language: Go, Makefile, Shell, PowerShell, Batchfile
+- Stars: 26673, Forks: 3125
+- language: Go, Shell, Makefile, PowerShell, Batchfile
 
 [Xray-core](https://github.com/XTLS/Xray-core) :
 
@@ -1043,7 +1115,7 @@
 - Owner: [XTLS](https://github.com/XTLS)
 - Description: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - Clone: `git clone git@github.com:XTLS/Xray-core.git`
-- Stars: 6091, Forks: 972
+- Stars: 6928, Forks: 1135
 - language: Go, Shell, HTML, Assembly
 
 [server](https://github.com/screego/server) :
@@ -1052,7 +1124,7 @@
 - Owner: [screego](https://github.com/screego)
 - Description: screen sharing for developers https://screego.net/
 - Clone: `git clone git@github.com:screego/server.git`
-- Stars: 3807, Forks: 220
+- Stars: 3933, Forks: 239
 - language: Go, TypeScript, Makefile, HTML, Dockerfile, CSS
 
 [exatorrent](https://github.com/varbhat/exatorrent) :
@@ -1060,8 +1132,16 @@
 - Owner: [varbhat](https://github.com/varbhat)
 - Description: Self-hostable , easy-to-use , lightweight and feature-rich torrent client written in Go . It comes with beautiful Web UI and Optional Multi-User Support . Run Locally or Host in Server . Open/Download/Stream Torrents in Browser Right Away! 
 - Clone: `git clone git@github.com:varbhat/exatorrent.git`
-- Stars: 1259, Forks: 54
+- Stars: 1339, Forks: 61
 - language: Go, Svelte, TypeScript, Makefile, JavaScript, Dockerfile, HTML
+
+[henggeFish](https://github.com/SkewwG/henggeFish) :
+
+- Owner: [SkewwG](https://github.com/SkewwG)
+- Description: 自动化批量发送钓鱼邮件（横戈安全团队出品）
+- Clone: `git clone git@github.com:SkewwG/henggeFish.git`
+- Stars: 407, Forks: 87
+- language: Go
 
 [easemesh](https://github.com/megaease/easemesh) :
 
@@ -1069,8 +1149,8 @@
 - Owner: [megaease](https://github.com/megaease)
 - Description: A service mesh implementation for connecting,  control, and observe services in spring-cloud.
 - Clone: `git clone git@github.com:megaease/easemesh.git`
-- Stars: 342, Forks: 23
-- language: Go, Makefile, Dockerfile
+- Stars: 369, Forks: 28
+- language: Go, Makefile, Dockerfile, Shell
 
 [chrome-bookmarks-alfred-workflow](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) :
 
@@ -1078,7 +1158,7 @@
 - Owner: [mdreizin](https://github.com/mdreizin)
 - Description: Chrome/Canary/Chromium/Microsoft Edge bookmarks search workflow for Alfred
 - Clone: `git clone git@github.com:mdreizin/chrome-bookmarks-alfred-workflow.git`
-- Stars: 265, Forks: 35
+- Stars: 278, Forks: 37
 - language: Go, Makefile
 
 [p2ptunnel](https://github.com/chenjia404/p2ptunnel) :
@@ -1086,10 +1166,70 @@
 - Owner: [chenjia404](https://github.com/chenjia404)
 - Description: 一个基于p2p的tcp、udp内网穿透隧道工具
 - Clone: `git clone git@github.com:chenjia404/p2ptunnel.git`
-- Stars: 107, Forks: 12
+- Stars: 109, Forks: 12
 - language: Go
 
-## <span id="c1bf4e39-3840-459d-a9a9-06a0f721b4f0">HTML</span>
+## <span id="ed6e4ae6-1302-4d06-98d3-34c1a5771d63">Kotlin</span>
+
+[v2rayNG](https://github.com/2dust/v2rayNG) :
+
+- Owner: [2dust](https://github.com/2dust)
+- Clone: `git clone git@github.com:2dust/v2rayNG.git`
+- Stars: 12612, Forks: 2274
+- language: Kotlin, Go, Java, AIDL, Shell, Makefile
+
+[SagerNet](https://github.com/SagerNet/SagerNet) :
+
+- [Website](https://sagernet.org)
+- Owner: [SagerNet](https://github.com/SagerNet)
+- Description: The universal proxy toolchain for Android
+- Clone: `git clone git@github.com:SagerNet/SagerNet.git`
+- Stars: 2732, Forks: 484
+- language: Kotlin, Java, Shell, CMake, AIDL
+
+[JBusDriver](https://github.com/Ccixyj/JBusDriver) :
+
+- Owner: [Ccixyj](https://github.com/Ccixyj)
+- Description: 这是去幼儿园的班车(滑稽
+- Clone: `git clone git@github.com:Ccixyj/JBusDriver.git`
+- Stars: 2057, Forks: 228
+- language: Kotlin, Java, Batchfile
+
+[AnXray](https://github.com/XTLS/AnXray) :
+
+- [Website](https://anxray.org)
+- Owner: [XTLS](https://github.com/XTLS)
+- Description: Another Xray for Android.
+- Clone: `git clone git@github.com:XTLS/AnXray.git`
+- Stars: 1579, Forks: 204
+- language: Kotlin, Java, C, Makefile, Shell, AIDL, Python
+
+[lingua](https://github.com/pemistahl/lingua) :
+
+- Owner: [pemistahl](https://github.com/pemistahl)
+- Description: 👄 The most accurate natural language detection library for Java and the JVM, suitable for long and short text alike
+- Clone: `git clone git@github.com:pemistahl/lingua.git`
+- Stars: 440, Forks: 39
+- language: Kotlin, Python
+
+[Bangumi](https://github.com/ekibun/Bangumi) :
+
+- [Website](https://bgm.tv/group/topic/346386)
+- Owner: [ekibun](https://github.com/ekibun)
+- Description: Bangumi番组计划Android客户端
+- Clone: `git clone git@github.com:ekibun/Bangumi.git`
+- Stars: 201, Forks: 9
+- language: Kotlin, Java
+
+[ideavim_extension](https://github.com/hadix-lin/ideavim_extension) :
+
+- Owner: [hadix-lin](https://github.com/hadix-lin)
+- Description: IdeaVIM插件的扩展插件
+- Clone: `git clone git@github.com:hadix-lin/ideavim_extension.git`
+- Stars: 198, Forks: 23
+- language: Kotlin
+
+## <span id="cdeb50b4-55b8-44ac-81e9-456b5fc01113">HTML</span>
 
 [technical-books](https://github.com/doocs/technical-books) :
 
@@ -1097,15 +1237,15 @@
 - Owner: [doocs](https://github.com/doocs)
 - Description: 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
 - Clone: `git clone git@github.com:doocs/technical-books.git`
-- Stars: 3740, Forks: 731
+- Stars: 3965, Forks: 767
 - language: HTML
 
-[java-bible](https://github.com/biezhi/java-bible) :
+[java-bible](https://github.com/hellokaton/java-bible) :
 
-- Owner: [biezhi](https://github.com/biezhi)
+- Owner: [hellokaton](https://github.com/hellokaton)
 - Description: :banana: 我的技术摘要
-- Clone: `git clone git@github.com:biezhi/java-bible.git`
-- Stars: 2898, Forks: 686
+- Clone: `git clone git@github.com:hellokaton/java-bible.git`
+- Stars: 2921, Forks: 685
 - language: HTML, CSS, JavaScript, Shell
 
 [coding-interview](https://github.com/doocs/coding-interview) :
@@ -1114,7 +1254,7 @@
 - Owner: [doocs](https://github.com/doocs)
 - Description: 😀 代码面试题集，包括剑指 Offer、编程之美等
 - Clone: `git clone git@github.com:doocs/coding-interview.git`
-- Stars: 1341, Forks: 381
+- Stars: 1420, Forks: 396
 - language: HTML
 
 [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) :
@@ -1122,7 +1262,7 @@
 - Owner: [daolf](https://github.com/daolf)
 - Description: The most recommended programming books of all-time.
 - Clone: `git clone git@github.com:daolf/Most-recommended-programming-books.git`
-- Stars: 1061, Forks: 101
+- Stars: 1079, Forks: 102
 - language: HTML
 
 [freev2](https://github.com/pojiezhiyuanjun/freev2) :
@@ -1130,7 +1270,7 @@
 - Owner: [pojiezhiyuanjun](https://github.com/pojiezhiyuanjun)
 - Description: free V2
 - Clone: `git clone git@github.com:pojiezhiyuanjun/freev2.git`
-- Stars: 352, Forks: 244
+- Stars: 447, Forks: 294
 - language: HTML
 
 [candidate-emails](https://github.com/fivethirtyeight/candidate-emails) :
@@ -1140,21 +1280,21 @@
 - Stars: 8, Forks: 4
 - language: HTML
 
-## <span id="c2faf9a1-659d-40de-a56a-3be104d73069">Swift</span>
+## <span id="535a71aa-2ac8-4e34-aa04-28cadae1bfba">Swift</span>
 
 [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) :
 
 - Owner: [serhii-londar](https://github.com/serhii-londar)
 - Description: 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - Clone: `git clone git@github.com:serhii-londar/open-source-mac-os-apps.git`
-- Stars: 28273, Forks: 1848
+- Stars: 28926, Forks: 1901
 - language: Swift, Shell
 
 [clashX](https://github.com/yichengchen/clashX) :
 
 - Owner: [yichengchen](https://github.com/yichengchen)
 - Clone: `git clone git@github.com:yichengchen/clashX.git`
-- Stars: 13886, Forks: 1865
+- Stars: 15306, Forks: 2034
 - language: Swift, Python, Objective-C, Go, Ruby, Shell
 
 [Clipy](https://github.com/Clipy/Clipy) :
@@ -1163,7 +1303,7 @@
 - Owner: [Clipy](https://github.com/Clipy)
 - Description: Clipboard extension app for macOS.
 - Clone: `git clone git@github.com:Clipy/Clipy.git`
-- Stars: 5352, Forks: 426
+- Stars: 5579, Forks: 449
 - language: Swift, Ruby
 
 [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) :
@@ -1172,7 +1312,7 @@
 - Owner: [lwouis](https://github.com/lwouis)
 - Description: Windows alt-tab on macOS 
 - Clone: `git clone git@github.com:lwouis/alt-tab-macos.git`
-- Stars: 2980, Forks: 98
+- Stars: 3504, Forks: 114
 - language: Swift, Shell, JavaScript, Objective-C, Ruby
 
 [vimac](https://github.com/dexterleng/vimac) :
@@ -1181,17 +1321,17 @@
 - Owner: [dexterleng](https://github.com/dexterleng)
 - Description: Productive macOS keyboard-driven navigation
 - Clone: `git clone git@github.com:dexterleng/vimac.git`
-- Stars: 2367, Forks: 54
+- Stars: 2478, Forks: 64
 - language: Swift, Shell, Objective-C, Ruby
 
-## <span id="695a12c4-1257-42fb-877e-76a6c42b3fbf">Shell</span>
+## <span id="d536d642-9b3a-461e-8bc4-6ba6fcd83a8c">Shell</span>
 
 [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) :
 
 - Owner: [zsh-users](https://github.com/zsh-users)
 - Description: Fish-like autosuggestions for zsh
 - Clone: `git clone git@github.com:zsh-users/zsh-autosuggestions.git`
-- Stars: 18729, Forks: 1145
+- Stars: 19723, Forks: 1232
 - language: Shell, Ruby, Makefile, Dockerfile
 
 [useful-scripts](https://github.com/oldratlee/useful-scripts) :
@@ -1200,7 +1340,7 @@
 - Owner: [oldratlee](https://github.com/oldratlee)
 - Description: 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - Clone: `git clone git@github.com:oldratlee/useful-scripts.git`
-- Stars: 5692, Forks: 2434
+- Stars: 5838, Forks: 2487
 - language: Shell, Python
 
 [ssr-accounts](https://github.com/gfw-breaker/ssr-accounts) :
@@ -1209,7 +1349,7 @@
 - Owner: [gfw-breaker](https://github.com/gfw-breaker)
 - Description: V2Ray, 免费V2Ray账号分享, 翻墙,无界, 自由门, SquirrelVPN, SS账号, 机场
 - Clone: `git clone git@github.com:gfw-breaker/ssr-accounts.git`
-- Stars: 3798, Forks: 593
+- Stars: 3853, Forks: 597
 - language: Shell, Python, HTML
 
 [bash-tutorial](https://github.com/wangdoc/bash-tutorial) :
@@ -1218,7 +1358,7 @@
 - Owner: [wangdoc](https://github.com/wangdoc)
 - Description: Bash 教程
 - Clone: `git clone git@github.com:wangdoc/bash-tutorial.git`
-- Stars: 3174, Forks: 793
+- Stars: 3325, Forks: 834
 - language: Shell
 
 [mysql](https://github.com/docker-library/mysql) :
@@ -1227,10 +1367,10 @@
 - Owner: [docker-library](https://github.com/docker-library)
 - Description: Docker Official Image packaging for MySQL Community Server
 - Clone: `git clone git@github.com:docker-library/mysql.git`
-- Stars: 1957, Forks: 1924
+- Stars: 2011, Forks: 1975
 - language: Shell, Dockerfile
 
-## <span id="77d713cc-4c55-4004-be32-080a848fbd00">Vim script</span>
+## <span id="91880c3e-eecf-4770-a970-2b3b5399f4d7">Vim script</span>
 
 [SpaceVim](https://github.com/SpaceVim/SpaceVim) :
 
@@ -1238,15 +1378,15 @@
 - Owner: [SpaceVim](https://github.com/SpaceVim)
 - Description: A community-driven modular vim/neovim distribution - The ultimate vimrc
 - Clone: `git clone git@github.com:SpaceVim/SpaceVim.git`
-- Stars: 17254, Forks: 1360
-- language: Vim script, Vim Snippet, Python, C, Shell, Lua, Makefile, Ruby, PowerShell, Batchfile, VBScript, CMake, PostScript, HTML, TeX, PLpgSQL, Fortran, C++, TypeScript, Vue, CSS, Common Lisp, JavaScript, Smalltalk
+- Stars: 17578, Forks: 1373
+- language: Vim script, Vim Snippet, Python, Lua, C, Shell, Java, Makefile, Ruby, PowerShell, Batchfile, VBScript, CMake, PostScript, HTML, TeX, PLpgSQL, Fortran, C++, TypeScript, Vue, Nix, CSS, Common Lisp, JavaScript, Smalltalk
 
 [til](https://github.com/jbranchaud/til) :
 
 - Owner: [jbranchaud](https://github.com/jbranchaud)
 - Description: :memo: Today I Learned
 - Clone: `git clone git@github.com:jbranchaud/til.git`
-- Stars: 9928, Forks: 578
+- Stars: 10090, Forks: 586
 - language: Vim script
 
 [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) :
@@ -1254,7 +1394,7 @@
 - Owner: [wsdjeg](https://github.com/wsdjeg)
 - Description: Vim 从入门到精通
 - Clone: `git clone git@github.com:wsdjeg/vim-galore-zh_cn.git`
-- Stars: 8404, Forks: 1295
+- Stars: 8624, Forks: 1323
 - language: Vim script
 
 [janus](https://github.com/carlhuda/janus) :
@@ -1262,7 +1402,7 @@
 - Owner: [carlhuda](https://github.com/carlhuda)
 - Description: Vim distribution
 - Clone: `git clone git@github.com:carlhuda/janus.git`
-- Stars: 7875, Forks: 833
+- Stars: 7876, Forks: 832
 - language: Vim script, Ruby, Shell
 
 [Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx) :
@@ -1271,60 +1411,17 @@
 - Owner: [mashirozx](https://github.com/mashirozx)
 - Description: P站（Pixiv）的正确打开方式
 - Clone: `git clone git@github.com:mashirozx/Pixiv-Nginx.git`
-- Stars: 1238, Forks: 161
+- Stars: 1314, Forks: 168
 - language: Vim script, Batchfile, Perl, HTML
 
-## <span id="0bdaf292-9be8-43a6-a6e5-7e8a78f08171">Kotlin</span>
-
-[v2rayNG](https://github.com/2dust/v2rayNG) :
-
-- Owner: [2dust](https://github.com/2dust)
-- Clone: `git clone git@github.com:2dust/v2rayNG.git`
-- Stars: 11657, Forks: 2141
-- language: Kotlin, Go, Java, AIDL, Shell, Makefile
-
-[SagerNet](https://github.com/SagerNet/SagerNet) :
-
-- [Website](https://sagernet.org)
-- Owner: [SagerNet](https://github.com/SagerNet)
-- Description: The universal proxy toolchain for Android
-- Clone: `git clone git@github.com:SagerNet/SagerNet.git`
-- Stars: 2470, Forks: 372
-- language: Kotlin, Java, C, Shell, Makefile, CMake, AIDL, Python
-
-[JBusDriver](https://github.com/Ccixyj/JBusDriver) :
-
-- Owner: [Ccixyj](https://github.com/Ccixyj)
-- Description: 这是去幼儿园的班车(滑稽
-- Clone: `git clone git@github.com:Ccixyj/JBusDriver.git`
-- Stars: 2018, Forks: 226
-- language: Kotlin, Java, Batchfile
-
-[AnXray](https://github.com/XTLS/AnXray) :
-
-- [Website](https://anxray.org)
-- Owner: [XTLS](https://github.com/XTLS)
-- Description: Another Xray for Android.
-- Clone: `git clone git@github.com:XTLS/AnXray.git`
-- Stars: 1224, Forks: 136
-- language: Kotlin, Java, C, Makefile, Shell, AIDL, Python
-
-[lingua](https://github.com/pemistahl/lingua) :
-
-- Owner: [pemistahl](https://github.com/pemistahl)
-- Description: 👄 The most accurate natural language detection library for Java and the JVM, suitable for long and short text alike
-- Clone: `git clone git@github.com:pemistahl/lingua.git`
-- Stars: 419, Forks: 36
-- language: Kotlin, Python
-
-## <span id="c9db612b-0048-43fd-a65c-332ceaca9ffd">Objective-C</span>
+## <span id="77cf0672-7b0f-4f70-b70b-118b7b0688b0">Objective-C</span>
 
 [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) :
 
 - Owner: [MustangYM](https://github.com/MustangYM)
 - Description: Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 - Clone: `git clone git@github.com:MustangYM/WeChatExtension-ForMac.git`
-- Stars: 18853, Forks: 3176
+- Stars: 18892, Forks: 3237
 - language: Objective-C, C, Shell, Objective-C++
 
 [aria2gui](https://github.com/yangshun1029/aria2gui) :
@@ -1332,7 +1429,7 @@
 - Owner: [yangshun1029](https://github.com/yangshun1029)
 - Description: Aria2GUI for macOS
 - Clone: `git clone git@github.com:yangshun1029/aria2gui.git`
-- Stars: 7938, Forks: 848
+- Stars: 7931, Forks: 844
 - language: Objective-C, JavaScript, HTML, CSS, Shell, Ruby
 
 [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) :
@@ -1341,7 +1438,7 @@
 - Owner: [noah-nuebling](https://github.com/noah-nuebling)
 - Description: Mac Mouse Fix - A simple way to make your mouse better.
 - Clone: `git clone git@github.com:noah-nuebling/mac-mouse-fix.git`
-- Stars: 669, Forks: 24
+- Stars: 777, Forks: 28
 - language: Objective-C, C
 
 [thyme](https://github.com/joaomoreno/thyme) :
@@ -1350,64 +1447,19 @@
 - Owner: [joaomoreno](https://github.com/joaomoreno)
 - Description: The task timer for OS X.
 - Clone: `git clone git@github.com:joaomoreno/thyme.git`
-- Stars: 544, Forks: 80
+- Stars: 549, Forks: 79
 - language: Objective-C, C, Rich Text Format
 
-## <span id="7331d8ac-9e93-4c83-858f-a00348e30bdd">Rust</span>
+## <span id="096abd61-82eb-4269-8085-b7777a5aef36">Vue</span>
 
-[MeiliSearch](https://github.com/meilisearch/MeiliSearch) :
+[ZY-Player](https://github.com/cuiocean/ZY-Player) :
 
-- [Website](https://docs.meilisearch.com)
-- Owner: [meilisearch](https://github.com/meilisearch)
-- Description: Powerful, fast, and an easy to use search engine
-- Clone: `git clone git@github.com:meilisearch/MeiliSearch.git`
-- Stars: 18638, Forks: 603
-- language: Rust, Shell, Dockerfile
-
-[algorithm](https://github.com/douchuan/algorithm) :
-
-- Owner: [douchuan](https://github.com/douchuan)
-- Description: Algorithms written in Rust
-- Clone: `git clone git@github.com:douchuan/algorithm.git`
-- Stars: 476, Forks: 45
-- language: Rust, C, Makefile
-
-[datenlord](https://github.com/datenlord/datenlord) :
-
-- Owner: [datenlord](https://github.com/datenlord)
-- Description: DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system
-- Clone: `git clone git@github.com:datenlord/datenlord.git`
-- Stars: 446, Forks: 37
-- language: Rust, Shell, Dockerfile
-
-## <span id="76d58da7-96f2-4cd4-b163-fe3d88f8bf22">Jupyter Notebook</span>
-
-[the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) :
-
-- Owner: [selfteaching](https://github.com/selfteaching)
-- Description: One has no future if one couldn't teach themself.
-- Clone: `git clone git@github.com:selfteaching/the-craft-of-selfteaching.git`
-- Stars: 12903, Forks: 13715
-- language: Jupyter Notebook, Python
-
-[first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) :
-
-- [Website](https://aliaksandrsiarohin.github.io/first-order-model-website/)
-- Owner: [AliaksandrSiarohin](https://github.com/AliaksandrSiarohin)
-- Description: This repository contains the source code for the paper First Order Motion Model for Image Animation 
-- Clone: `git clone git@github.com:AliaksandrSiarohin/first-order-model.git`
-- Stars: 11706, Forks: 2570
-- language: Jupyter Notebook, Python, Dockerfile
-
-[telegram-deep-fakes-bot](https://github.com/albertoxamin/telegram-deep-fakes-bot) :
-
-- Owner: [albertoxamin](https://github.com/albertoxamin)
-- Description: This telegram bot uses the first order model to produce deepfakes video notes 
-- Clone: `git clone git@github.com:albertoxamin/telegram-deep-fakes-bot.git`
-- Stars: 56, Forks: 17
-- language: Jupyter Notebook
-
-## <span id="b8c42e36-fbe5-4feb-ae4d-34631be600a4">Vue</span>
+- [Website](http://zyplayer.fun)
+- Owner: [cuiocean](https://github.com/cuiocean)
+- Description: ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+- Clone: `git clone git@github.com:cuiocean/ZY-Player.git`
+- Stars: 10496, Forks: 1720
+- language: Vue, SCSS, JavaScript, HTML
 
 [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) :
 
@@ -1415,7 +1467,7 @@
 - Owner: [abhisheknaiidu](https://github.com/abhisheknaiidu)
 - Description: 😎 A curated list of awesome GitHub Profile READMEs 📝
 - Clone: `git clone git@github.com:abhisheknaiidu/awesome-github-profile-readme.git`
-- Stars: 8907, Forks: 1508
+- Stars: 9897, Forks: 1700
 - language: Vue
 
 [awesome-fenix](https://github.com/fenixsoft/awesome-fenix) :
@@ -1424,19 +1476,100 @@
 - Owner: [fenixsoft](https://github.com/fenixsoft)
 - Description: 讨论如何构建一套可靠的大型分布式系统
 - Clone: `git clone git@github.com:fenixsoft/awesome-fenix.git`
-- Stars: 3818, Forks: 399
+- Stars: 4541, Forks: 491
 - language: Vue, JavaScript, Stylus, Shell
 
-[mogu_blog_v2](https://github.com/moxi624/mogu_blog_v2) :
+[ZY-Player-Web](https://github.com/Hunlongyu/ZY-Player-Web) :
 
-- [Website](http://www.moguit.cn/#/)
-- Owner: [moxi624](https://github.com/moxi624)
-- Description: 蘑菇博客(MoguBlog)，一个基于微服务架构的前后端分离博客系统。Web端使用Vue + Element , 移动端使用uniapp和ColorUI。后端使用Spring cloud + Spring boot + mybatis-plus进行开发，使用 Jwt + Spring Security做登录验证和权限校验，使用ElasticSearch和Solr作为全文检索服务，使用Github Actions完成博客的持续集成，使用ELK收集博客日志，文件支持上传七牛云和Minio，支持Docker Compose脚本一键部署。
-- Clone: `git clone git@github.com:moxi624/mogu_blog_v2.git`
-- Stars: 789, Forks: 308
-- language: Vue, Java, CSS, JavaScript, HTML, SCSS, FreeMarker, Shell, Dockerfile, Stylus
+- [Website](http://hunlongyu.gitee.io/zy-player-web/)
+- Owner: [Hunlongyu](https://github.com/Hunlongyu)
+- Description: ▶️ 跨平台浏览器端视频资源播放器. 简洁免费. 🎞 ZY Player 浏览器端。
+- Clone: `git clone git@github.com:Hunlongyu/ZY-Player-Web.git`
+- Stars: 207, Forks: 49
+- language: Vue, TypeScript, SCSS, HTML
 
-## <span id="8482a2a2-5ce1-4ed7-bcb4-650ce1e03441">Dockerfile</span>
+## <span id="cf829dbc-b079-4d7e-8bc5-10d9867e95f4">Rust</span>
+
+[MeiliSearch](https://github.com/meilisearch/MeiliSearch) :
+
+- [Website](https://docs.meilisearch.com)
+- Owner: [meilisearch](https://github.com/meilisearch)
+- Description: Powerful, fast, and an easy to use search engine
+- Clone: `git clone git@github.com:meilisearch/MeiliSearch.git`
+- Stars: 20290, Forks: 702
+- language: Rust, Shell, Dockerfile
+
+[datenlord](https://github.com/datenlord/datenlord) :
+
+- Owner: [datenlord](https://github.com/datenlord)
+- Description: DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system
+- Clone: `git clone git@github.com:datenlord/datenlord.git`
+- Stars: 497, Forks: 42
+- language: Rust, Shell, Dockerfile
+
+[algorithm](https://github.com/douchuan/algorithm) :
+
+- Owner: [douchuan](https://github.com/douchuan)
+- Description: Algorithms written in Rust
+- Clone: `git clone git@github.com:douchuan/algorithm.git`
+- Stars: 496, Forks: 48
+- language: Rust, C, Makefile
+
+## <span id="6a5830e2-a448-434a-971a-5284354394a4">C++</span>
+
+[Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) :
+
+- [Website](https://pqrs.org/osx/karabiner/)
+- Owner: [pqrs-org](https://github.com/pqrs-org)
+- Description: Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+- Clone: `git clone git@github.com:pqrs-org/Karabiner-Elements.git`
+- Stars: 13883, Forks: 733
+- language: C++, Objective-C, Swift, C, Shell, Makefile, CMake, AppleScript, Python, Ruby
+
+[chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) :
+
+- Owner: [DayBreak-u](https://github.com/DayBreak-u)
+- Description: 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M 
+- Clone: `git clone git@github.com:DayBreak-u/chineseocr_lite.git`
+- Stars: 8315, Forks: 1682
+- language: C++, Kotlin, Visual Basic .NET, C#, Python, Shell, Batchfile, CMake, C, Java, Dockerfile
+
+[algorithm-stone](https://github.com/acm-clan/algorithm-stone) :
+
+- Owner: [acm-clan](https://github.com/acm-clan)
+- Description: ACM/LeetCode算法竞赛路线图，最全的算法学习地图！
+- Clone: `git clone git@github.com:acm-clan/algorithm-stone.git`
+- Stars: 784, Forks: 234
+- language: C++, Python, Batchfile
+
+## <span id="95999ad5-8c6f-4923-b4bb-86e42d49e5f4">Jupyter Notebook</span>
+
+[the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) :
+
+- Owner: [selfteaching](https://github.com/selfteaching)
+- Description: One has no future if one couldn't teach themself.
+- Clone: `git clone git@github.com:selfteaching/the-craft-of-selfteaching.git`
+- Stars: 13010, Forks: 13913
+- language: Jupyter Notebook, Python
+
+[first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) :
+
+- [Website](https://aliaksandrsiarohin.github.io/first-order-model-website/)
+- Owner: [AliaksandrSiarohin](https://github.com/AliaksandrSiarohin)
+- Description: This repository contains the source code for the paper First Order Motion Model for Image Animation 
+- Clone: `git clone git@github.com:AliaksandrSiarohin/first-order-model.git`
+- Stars: 11969, Forks: 2642
+- language: Jupyter Notebook, Python, Dockerfile
+
+[telegram-deep-fakes-bot](https://github.com/albertoxamin/telegram-deep-fakes-bot) :
+
+- Owner: [albertoxamin](https://github.com/albertoxamin)
+- Description: This telegram bot uses the first order model to produce deepfakes video notes 
+- Clone: `git clone git@github.com:albertoxamin/telegram-deep-fakes-bot.git`
+- Stars: 57, Forks: 20
+- language: Jupyter Notebook
+
+## <span id="d2584476-1258-401a-bcdd-212c4bd9d02b">Dockerfile</span>
 
 [Free-SS-SSR](https://github.com/ThinkDevelop/Free-SS-SSR) :
 
@@ -1444,7 +1577,7 @@
 - Owner: [ThinkDevelop](https://github.com/ThinkDevelop)
 - Description: SS账号、SSR账号、V2Ray账号
 - Clone: `git clone git@github.com:ThinkDevelop/Free-SS-SSR.git`
-- Stars: 3540, Forks: 483
+- Stars: 3555, Forks: 480
 - language: Dockerfile
 
 [docker-alpine-java](https://github.com/anapsix/docker-alpine-java) :
@@ -1453,17 +1586,17 @@
 - Owner: [anapsix](https://github.com/anapsix)
 - Description: Oracle Java8 over AlpineLinux with glibc 2.29
 - Clone: `git clone git@github.com:anapsix/docker-alpine-java.git`
-- Stars: 716, Forks: 288
+- Stars: 714, Forks: 289
 - language: Dockerfile, Smarty, Shell, Java
 
-## <span id="abecfa7a-a66e-4d48-93eb-f1ccc36a8200">AppleScript</span>
+## <span id="36f1a2f0-5e67-4e11-a05e-7809424e023d">AppleScript</span>
 
 [custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) :
 
 - Owner: [vitorgalvao](https://github.com/vitorgalvao)
 - Description: AppleScript for iTerm2 Alfred integration.
 - Clone: `git clone git@github.com:vitorgalvao/custom-alfred-iterm-scripts.git`
-- Stars: 2813, Forks: 392
+- Stars: 2949, Forks: 402
 - language: AppleScript
 
 [Netease-Alfred-Controller](https://github.com/Ironaki/Netease-Alfred-Controller) :
@@ -1471,17 +1604,17 @@
 - Owner: [Ironaki](https://github.com/Ironaki)
 - Description: NeteaseMusic Alfred Controller
 - Clone: `git clone git@github.com:Ironaki/Netease-Alfred-Controller.git`
-- Stars: 10, Forks: 0
+- Stars: 11, Forks: 0
 - language: AppleScript
 
-## <span id="ea6fd6aa-e110-4309-83d6-d8cd85caea5e">Dart</span>
+## <span id="45250101-3ba1-48fd-ad88-def0b47e18a8">Dart</span>
 
 [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) :
 
 - Owner: [Notsfsssf](https://github.com/Notsfsssf)
 - Description: 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 - Clone: `git clone git@github.com:Notsfsssf/pixez-flutter.git`
-- Stars: 2502, Forks: 158
+- Stars: 2807, Forks: 175
 - language: Dart, Kotlin, Swift, Ruby, Objective-C
 
 [flutter_easyloading](https://github.com/nslog11/flutter_easyloading) :
@@ -1490,17 +1623,37 @@
 - Owner: [nslog11](https://github.com/nslog11)
 - Description: ✨A clean and lightweight loading/toast widget for Flutter, easy to use without context, support iOS、Android and Web
 - Clone: `git clone git@github.com:nslog11/flutter_easyloading.git`
-- Stars: 676, Forks: 91
+- Stars: 750, Forks: 101
 - language: Dart, Ruby, HTML, Objective-C, Kotlin, Swift
 
-## <span id="2bbe03f1-1491-4a51-83a1-d97f3af4894c">PHP</span>
+## <span id="78052c0f-42fa-498d-ad09-b43d7702a0c9">Ruby</span>
+
+[open-shell-book](https://github.com/tinyclub/open-shell-book) :
+
+- [Website](https://tinylab.gitbooks.io/shellbook/)
+- Owner: [tinyclub](https://github.com/tinyclub)
+- Description: 开源书籍：《Shell 编程范例》，面向操作对象学 Shell！本书作者发布了《360°剖析 Linux ELF》视频课程，欢迎订阅：https://www.cctalk.com/m/group/88089283
+- Clone: `git clone git@github.com:tinyclub/open-shell-book.git`
+- Stars: 722, Forks: 179
+- language: Ruby, Shell, Makefile
+
+[g1gc-impl-book](https://github.com/authorNari/g1gc-impl-book) :
+
+- [Website](http://www.narihiro.info/g1gc-impl-book/)
+- Owner: [authorNari](https://github.com/authorNari)
+- Description: 徹底解剖「G1GC」実装編
+- Clone: `git clone git@github.com:authorNari/g1gc-impl-book.git`
+- Stars: 302, Forks: 32
+- language: Ruby
+
+## <span id="ad01d625-7da9-4f25-8c20-3dc9e00f2f05">PHP</span>
 
 [alfred-web-search-suggest](https://github.com/zqzten/alfred-web-search-suggest) :
 
 - Owner: [zqzten](https://github.com/zqzten)
 - Description: Alfred search suggest workflow for various popular websites.
 - Clone: `git clone git@github.com:zqzten/alfred-web-search-suggest.git`
-- Stars: 274, Forks: 27
+- Stars: 286, Forks: 27
 - language: PHP
 
 [LazyAudioBook](https://github.com/easychen/LazyAudioBook) :
@@ -1511,7 +1664,18 @@
 - Stars: 172, Forks: 22
 - language: PHP
 
-## <span id="1e7e187f-6157-4bd7-a52b-c3018dd2f855">CSS</span>
+## <span id="a92d3079-91b4-416a-b247-8b432c4b9833">Markdown</span>
+
+[fucking-algorithm](https://github.com/labuladong/fucking-algorithm) :
+
+- [Website](https://labuladong.gitee.io/algo/)
+- Owner: [labuladong](https://github.com/labuladong)
+- Description: 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. 
+- Clone: `git clone git@github.com:labuladong/fucking-algorithm.git`
+- Stars: 99796, Forks: 19583
+- language: Markdown
+
+## <span id="5da3809e-485b-452d-b1f7-9f31a5b32572">Less</span>
 
 [gridea](https://github.com/getgridea/gridea) :
 
@@ -1519,51 +1683,50 @@
 - Owner: [getgridea](https://github.com/getgridea)
 - Description: ✍️ A static blog writing client (一个静态博客写作客户端)
 - Clone: `git clone git@github.com:getgridea/gridea.git`
-- Stars: 7727, Forks: 647
-- language: CSS, Vue, TypeScript, HTML, JavaScript
+- Stars: 7942, Forks: 674
+- language: Less, Vue, TypeScript, EJS, JavaScript, HTML, CSS
 
-## <span id="a2064046-568a-49a8-a911-eef7d7ce6b0a">C#</span>
+## <span id="57f9372a-9bb8-48db-81ea-be737df65024">C#</span>
 
 [FastGithub](https://github.com/dotnetcore/FastGithub) :
 
 - Owner: [dotnetcore](https://github.com/dotnetcore)
 - Description: github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
 - Clone: `git clone git@github.com:dotnetcore/FastGithub.git`
-- Stars: 2250, Forks: 246
-- language: C#, Batchfile, Shell
+- Stars: 3465, Forks: 438
+- language: C#, HTML, Batchfile, Shell
 
-## <span id="13ad7a7e-2f59-4a66-9f29-68e405bb1200">Roff</span>
+## <span id="061251f3-759b-48c2-ba71-33e2dfc65b48">Roff</span>
 
 [help](https://github.com/shadowrocketHelp/help) :
 
 - Owner: [shadowrocketHelp](https://github.com/shadowrocketHelp)
 - Description: 【史上最详细的SS/SSR节点使用教程】
 - Clone: `git clone git@github.com:shadowrocketHelp/help.git`
-- Stars: 1159, Forks: 143
+- Stars: 1168, Forks: 145
 - language: Roff
 
-## <span id="1334de79-f493-4b84-a7a7-c2b63eb948fd">TeX</span>
+## <span id="0afa49d5-0459-490e-83b4-54f17c2aa5b4">TeX</span>
 
 [oi-slides](https://github.com/huzecong/oi-slides) :
 
 - Owner: [huzecong](https://github.com/huzecong)
 - Description: 我的信息学竞赛讲课课件
 - Clone: `git clone git@github.com:huzecong/oi-slides.git`
-- Stars: 1017, Forks: 218
+- Stars: 1033, Forks: 221
 - language: TeX
 
-## <span id="25673498-5824-4ca5-93e4-037d78412125">Ruby</span>
+## <span id="da83663b-0ce7-4af0-a070-de96d1ce65a8">CSS</span>
 
-[g1gc-impl-book](https://github.com/authorNari/g1gc-impl-book) :
+[ssr](https://github.com/wandou911/ssr) :
 
-- [Website](http://www.narihiro.info/g1gc-impl-book/)
-- Owner: [authorNari](https://github.com/authorNari)
-- Description: 徹底解剖「G1GC」実装編
-- Clone: `git clone git@github.com:authorNari/g1gc-impl-book.git`
-- Stars: 297, Forks: 29
-- language: Ruby
+- Owner: [wandou911](https://github.com/wandou911)
+- Description: ssr免费节点
+- Clone: `git clone git@github.com:wandou911/ssr.git`
+- Stars: 691, Forks: 97
+- language: CSS, Shell, HTML, JavaScript
 
-## <span id="1118a6c7-4115-453d-b762-b4da69cf9700">Others</span>
+## <span id="fbb87095-d23e-4492-8b47-033feedd81b3">Others</span>
 
 [free-programming-books](https://github.com/EbookFoundation/free-programming-books) :
 
@@ -1571,7 +1734,7 @@
 - Owner: [EbookFoundation](https://github.com/EbookFoundation)
 - Description: :books: Freely available programming books
 - Clone: `git clone git@github.com:EbookFoundation/free-programming-books.git`
-- Stars: 207286, Forks: 44975
+- Stars: 216458, Forks: 46499
 
 
 [coding-interview-university](https://github.com/jwasham/coding-interview-university) :
@@ -1579,7 +1742,7 @@
 - Owner: [jwasham](https://github.com/jwasham)
 - Description: A complete computer science study plan to become a software engineer.
 - Clone: `git clone git@github.com:jwasham/coding-interview-university.git`
-- Stars: 194171, Forks: 52179
+- Stars: 201523, Forks: 54208
 
 
 [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) :
@@ -1587,16 +1750,7 @@
 - Owner: [jlevy](https://github.com/jlevy)
 - Description: Master the command line, in one page
 - Clone: `git clone git@github.com:jlevy/the-art-of-command-line.git`
-- Stars: 97310, Forks: 10481
-
-
-[fucking-algorithm](https://github.com/labuladong/fucking-algorithm) :
-
-- [Website](https://labuladong.gitbook.io/algo/)
-- Owner: [labuladong](https://github.com/labuladong)
-- Description: 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. 
-- Clone: `git clone git@github.com:labuladong/fucking-algorithm.git`
-- Stars: 96656, Forks: 18920
+- Stars: 100544, Forks: 10855
 
 
 [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) :
@@ -1605,7 +1759,7 @@
 - Owner: [justjavac](https://github.com/justjavac)
 - Description: :books: 免费的计算机编程类中文书籍，欢迎投稿
 - Clone: `git clone git@github.com:justjavac/free-programming-books-zh_CN.git`
-- Stars: 83222, Forks: 24056
+- Stars: 85681, Forks: 24609
 
 
 [architect-awesome](https://github.com/xingshaocheng/architect-awesome) :
@@ -1613,7 +1767,7 @@
 - Owner: [xingshaocheng](https://github.com/xingshaocheng)
 - Description: 后端架构师技术图谱
 - Clone: `git clone git@github.com:xingshaocheng/architect-awesome.git`
-- Stars: 54374, Forks: 16767
+- Stars: 55062, Forks: 16947
 
 
 [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) :
@@ -1621,7 +1775,7 @@
 - Owner: [mtdvio](https://github.com/mtdvio)
 - Description: A collection of (mostly) technical things every software developer should know about
 - Clone: `git clone git@github.com:mtdvio/every-programmer-should-know.git`
-- Stars: 45201, Forks: 4501
+- Stars: 49124, Forks: 4823
 
 
 [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) :
@@ -1629,7 +1783,15 @@
 - Owner: [sdmg15](https://github.com/sdmg15)
 - Description: :link: Some useful websites for programmers.
 - Clone: `git clone git@github.com:sdmg15/Best-websites-a-programmer-should-visit.git`
-- Stars: 42919, Forks: 5463
+- Stars: 44777, Forks: 5911
+
+
+[git-flight-rules](https://github.com/k88hudson/git-flight-rules) :
+
+- Owner: [k88hudson](https://github.com/k88hudson)
+- Description: Flight rules for git
+- Clone: `git clone git@github.com:k88hudson/git-flight-rules.git`
+- Stars: 38188, Forks: 2900
 
 
 [awesome-java](https://github.com/akullpp/awesome-java) :
@@ -1637,7 +1799,7 @@
 - Owner: [akullpp](https://github.com/akullpp)
 - Description: A curated list of awesome frameworks, libraries and software for the Java programming language.
 - Clone: `git clone git@github.com:akullpp/awesome-java.git`
-- Stars: 30014, Forks: 6456
+- Stars: 30819, Forks: 6574
 
 
 [JavaFamily](https://github.com/AobingJava/JavaFamily) :
@@ -1645,7 +1807,7 @@
 - Owner: [AobingJava](https://github.com/AobingJava)
 - Description: 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - Clone: `git clone git@github.com:AobingJava/JavaFamily.git`
-- Stars: 27740, Forks: 6358
+- Stars: 28709, Forks: 6581
 
 
 [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) :
@@ -1653,16 +1815,16 @@
 - Owner: [herrbischoff](https://github.com/herrbischoff)
 - Description: Use your macOS terminal shell to do awesome things.
 - Clone: `git clone git@github.com:herrbischoff/awesome-macos-command-line.git`
-- Stars: 25600, Forks: 1520
+- Stars: 25621, Forks: 1515
 
 
 [ResumeSample](https://github.com/geekcompany/ResumeSample) :
 
-- [Website](http://get.jobdeer.com/744.get)
+- [Website](http://cv.ftqq.com/?fr=github)
 - Owner: [geekcompany](https://github.com/geekcompany)
 - Description: Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 - Clone: `git clone git@github.com:geekcompany/ResumeSample.git`
-- Stars: 24298, Forks: 8828
+- Stars: 24498, Forks: 8865
 
 
 [hosts](https://github.com/googlehosts/hosts) :
@@ -1670,7 +1832,7 @@
 - Owner: [googlehosts](https://github.com/googlehosts)
 - Description: 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 - Clone: `git clone git@github.com:googlehosts/hosts.git`
-- Stars: 20747, Forks: 10766
+- Stars: 20791, Forks: 10782
 
 
 [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) :
@@ -1678,7 +1840,16 @@
 - Owner: [nikitavoloboev](https://github.com/nikitavoloboev)
 - Description: List of applications and tools that make my macOS experience even more amazing
 - Clone: `git clone git@github.com:nikitavoloboev/my-mac-os.git`
-- Stars: 18215, Forks: 841
+- Stars: 18339, Forks: 842
+
+
+[eng-practices](https://github.com/google/eng-practices) :
+
+- [Website](https://google.github.io/eng-practices/)
+- Owner: [google](https://github.com/google)
+- Description: Google's Engineering Practices documentation
+- Clone: `git clone git@github.com:google/eng-practices.git`
+- Stars: 17768, Forks: 1687
 
 
 [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) :
@@ -1686,31 +1857,7 @@
 - Owner: [1c7](https://github.com/1c7)
 - Description: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - Clone: `git clone git@github.com:1c7/chinese-independent-developer.git`
-- Stars: 17076, Forks: 1676
-
-
-[OnJava8](https://github.com/LingCoder/OnJava8) :
-
-- Owner: [LingCoder](https://github.com/LingCoder)
-- Description: 《On Java 8》中文版 
-- Clone: `git clone git@github.com:LingCoder/OnJava8.git`
-- Stars: 16554, Forks: 5327
-
-
-[3y](https://github.com/ZhongFuCheng3y/3y) :
-
-- Owner: [ZhongFuCheng3y](https://github.com/ZhongFuCheng3y)
-- Description: :notebook:从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点
-- Clone: `git clone git@github.com:ZhongFuCheng3y/3y.git`
-- Stars: 15255, Forks: 3349
-
-
-[Best-App](https://github.com/hzlzh/Best-App) :
-
-- Owner: [hzlzh](https://github.com/hzlzh)
-- Description: 收集&推荐优秀的 Apps/硬件/技巧/周边等
-- Clone: `git clone git@github.com:hzlzh/Best-App.git`
-- Stars: 15086, Forks: 1804
+- Stars: 17443, Forks: 1692
 
 
 [free](https://github.com/freefq/free) :
@@ -1718,7 +1865,31 @@
 - Owner: [freefq](https://github.com/freefq)
 - Description: 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - Clone: `git clone git@github.com:freefq/free.git`
-- Stars: 14136, Forks: 3303
+- Stars: 16745, Forks: 3804
+
+
+[OnJava8](https://github.com/LingCoder/OnJava8) :
+
+- Owner: [LingCoder](https://github.com/LingCoder)
+- Description: 《On Java 8》中文版 
+- Clone: `git clone git@github.com:LingCoder/OnJava8.git`
+- Stars: 16521, Forks: 5389
+
+
+[athena](https://github.com/ZhongFuCheng3y/athena) :
+
+- Owner: [ZhongFuCheng3y](https://github.com/ZhongFuCheng3y)
+- Description: :notebook:Java后端知识图谱
+- Clone: `git clone git@github.com:ZhongFuCheng3y/athena.git`
+- Stars: 15783, Forks: 3456
+
+
+[Best-App](https://github.com/hzlzh/Best-App) :
+
+- Owner: [hzlzh](https://github.com/hzlzh)
+- Description: 收集&推荐优秀的 Apps/硬件/技巧/周边等
+- Clone: `git clone git@github.com:hzlzh/Best-App.git`
+- Stars: 15236, Forks: 1810
 
 
 [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) :
@@ -1726,7 +1897,7 @@
 - Owner: [jobbole](https://github.com/jobbole)
 - Description: Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - Clone: `git clone git@github.com:jobbole/awesome-java-cn.git`
-- Stars: 14105, Forks: 4610
+- Stars: 14273, Forks: 4621
 
 
 [free-books](https://github.com/ruanyf/free-books) :
@@ -1734,7 +1905,7 @@
 - Owner: [ruanyf](https://github.com/ruanyf)
 - Description: 互联网上的免费书籍
 - Clone: `git clone git@github.com:ruanyf/free-books.git`
-- Stars: 12067, Forks: 2157
+- Stars: 12279, Forks: 2212
 
 
 [technology-talk](https://github.com/aalansehaiyang/technology-talk) :
@@ -1742,7 +1913,7 @@
 - Owner: [aalansehaiyang](https://github.com/aalansehaiyang)
 - Description: 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
 - Clone: `git clone git@github.com:aalansehaiyang/technology-talk.git`
-- Stars: 11935, Forks: 3451
+- Stars: 12144, Forks: 3497
 
 
 [alfred-workflows](https://github.com/zenorocha/alfred-workflows) :
@@ -1750,23 +1921,7 @@
 - Owner: [zenorocha](https://github.com/zenorocha)
 - Description: :metal: A collection of Alfred 3 and 4 workflows that will rock your world
 - Clone: `git clone git@github.com:zenorocha/alfred-workflows.git`
-- Stars: 11746, Forks: 853
-
-
-[awesome-readme](https://github.com/matiassingers/awesome-readme) :
-
-- Owner: [matiassingers](https://github.com/matiassingers)
-- Description: A curated list of awesome READMEs
-- Clone: `git clone git@github.com:matiassingers/awesome-readme.git`
-- Stars: 10490, Forks: 2830
-
-
-[GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) :
-
-- Owner: [GitHubDaily](https://github.com/GitHubDaily)
-- Description: GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
-- Clone: `git clone git@github.com:GitHubDaily/GitHubDaily.git`
-- Stars: 9884, Forks: 1241
+- Stars: 11848, Forks: 862
 
 
 [free-api](https://github.com/fangzesheng/free-api) :
@@ -1774,7 +1929,23 @@
 - Owner: [fangzesheng](https://github.com/fangzesheng)
 - Description: 收集免费的接口服务,做一个api的搬运工
 - Clone: `git clone git@github.com:fangzesheng/free-api.git`
-- Stars: 8670, Forks: 1044
+- Stars: 11392, Forks: 1304
+
+
+[awesome-readme](https://github.com/matiassingers/awesome-readme) :
+
+- Owner: [matiassingers](https://github.com/matiassingers)
+- Description: A curated list of awesome READMEs
+- Clone: `git clone git@github.com:matiassingers/awesome-readme.git`
+- Stars: 10911, Forks: 2943
+
+
+[GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) :
+
+- Owner: [GitHubDaily](https://github.com/GitHubDaily)
+- Description: GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
+- Clone: `git clone git@github.com:GitHubDaily/GitHubDaily.git`
+- Stars: 10191, Forks: 1292
 
 
 [browser-2020](https://github.com/luruke/browser-2020) :
@@ -1782,7 +1953,24 @@
 - Owner: [luruke](https://github.com/luruke)
 - Description: Things you can do with a browser in 2020 ☕️
 - Clone: `git clone git@github.com:luruke/browser-2020.git`
-- Stars: 8173, Forks: 203
+- Stars: 8175, Forks: 207
+
+
+[Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) :
+
+- Owner: [cat-milk](https://github.com/cat-milk)
+- Description: Anime Girls Holding Programming Books
+- Clone: `git clone git@github.com:cat-milk/Anime-Girls-Holding-Programming-Books.git`
+- Stars: 7884, Forks: 401
+
+
+[jvm](https://github.com/doocs/jvm) :
+
+- [Website](https://doocs.github.io/jvm)
+- Owner: [doocs](https://github.com/doocs)
+- Description: 🤗 JVM 底层原理最全知识总结
+- Clone: `git clone git@github.com:doocs/jvm.git`
+- Stars: 7763, Forks: 1809
 
 
 [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) :
@@ -1790,15 +1978,7 @@
 - Owner: [TonnyL](https://github.com/TonnyL)
 - Description: :octocat: A collection of APIs
 - Clone: `git clone git@github.com:TonnyL/Awesome_APIs.git`
-- Stars: 7666, Forks: 947
-
-
-[Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) :
-
-- Owner: [laynH](https://github.com/laynH)
-- Description: Anime Girls Holding Programming Books
-- Clone: `git clone git@github.com:laynH/Anime-Girls-Holding-Programming-Books.git`
-- Stars: 7327, Forks: 382
+- Stars: 7736, Forks: 952
 
 
 [AndroidDevTools](https://github.com/inferjay/AndroidDevTools) :
@@ -1807,7 +1987,7 @@
 - Owner: [inferjay](https://github.com/inferjay)
 - Description: 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
 - Clone: `git clone git@github.com:inferjay/AndroidDevTools.git`
-- Stars: 7203, Forks: 2093
+- Stars: 7260, Forks: 2090
 
 
 [CodeGuide](https://github.com/fuzhengwei/CodeGuide) :
@@ -1816,7 +1996,15 @@
 - Owner: [fuzhengwei](https://github.com/fuzhengwei)
 - Description: :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 - Clone: `git clone git@github.com:fuzhengwei/CodeGuide.git`
-- Stars: 6012, Forks: 1277
+- Stars: 6761, Forks: 1501
+
+
+[Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) :
+
+- Owner: [selierlin](https://github.com/selierlin)
+- Description: 🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站
+- Clone: `git clone git@github.com:selierlin/Share-SSR-V2ray.git`
+- Stars: 5985, Forks: 950
 
 
 [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) :
@@ -1824,7 +2012,23 @@
 - Owner: [SSHeRun](https://github.com/SSHeRun)
 - Description: 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
 - Clone: `git clone git@github.com:SSHeRun/CS-Xmind-Note.git`
-- Stars: 5263, Forks: 1560
+- Stars: 5556, Forks: 1622
+
+
+[leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) :
+
+- Owner: [MysteryVaibhav](https://github.com/MysteryVaibhav)
+- Description: This is a repository containing the list of company wise questions available on leetcode premium
+- Clone: `git clone git@github.com:MysteryVaibhav/leetcode_company_wise_questions.git`
+- Stars: 5180, Forks: 1799
+
+
+[bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) :
+
+- Owner: [SocialSisterYi](https://github.com/SocialSisterYi)
+- Description: 哔哩哔哩-API收集整理【不断更新中....】
+- Clone: `git clone git@github.com:SocialSisterYi/bilibili-API-collect.git`
+- Stars: 4509, Forks: 607
 
 
 [influential-cs-books](https://github.com/cs-books/influential-cs-books) :
@@ -1832,7 +2036,7 @@
 - Owner: [cs-books](https://github.com/cs-books)
 - Description: Most influential books on Computer Science/programming
 - Clone: `git clone git@github.com:cs-books/influential-cs-books.git`
-- Stars: 4169, Forks: 383
+- Stars: 4320, Forks: 402
 
 
 [chromium](https://github.com/jjqqkk/chromium) :
@@ -1843,20 +2047,20 @@
 - Stars: 4014, Forks: 0
 
 
-[bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) :
-
-- Owner: [SocialSisterYi](https://github.com/SocialSisterYi)
-- Description: 哔哩哔哩-API收集整理【不断更新中....】
-- Clone: `git clone git@github.com:SocialSisterYi/bilibili-API-collect.git`
-- Stars: 3869, Forks: 513
-
-
 [bestJavaer](https://github.com/crisxuan/bestJavaer) :
 
 - Owner: [crisxuan](https://github.com/crisxuan)
 - Description: 这是一个成为更好的Java程序员的系列教程
 - Clone: `git clone git@github.com:crisxuan/bestJavaer.git`
-- Stars: 3312, Forks: 708
+- Stars: 3629, Forks: 770
+
+
+[Road2Coding](https://github.com/rd2coding/Road2Coding) :
+
+- Owner: [rd2coding](https://github.com/rd2coding)
+- Description: 编程之路
+- Clone: `git clone git@github.com:rd2coding/Road2Coding.git`
+- Stars: 3204, Forks: 503
 
 
 [archive-program](https://github.com/github/archive-program) :
@@ -1864,7 +2068,7 @@
 - Owner: [github](https://github.com/github)
 - Description: The GitHub Archive Program & Arctic Code Vault
 - Clone: `git clone git@github.com:github/archive-program.git`
-- Stars: 2741, Forks: 237
+- Stars: 2781, Forks: 251
 
 
 [android-interview-questions-cn](https://github.com/stormzhang/android-interview-questions-cn) :
@@ -1872,7 +2076,7 @@
 - Owner: [stormzhang](https://github.com/stormzhang)
 - Description: 最全面的高质量 Android 面试指南。
 - Clone: `git clone git@github.com:stormzhang/android-interview-questions-cn.git`
-- Stars: 2713, Forks: 527
+- Stars: 2739, Forks: 531
 
 
 [awesome-vpn](https://github.com/hugetiny/awesome-vpn) :
@@ -1880,7 +2084,7 @@
 - Owner: [hugetiny](https://github.com/hugetiny)
 - Description: Free VPN/proxy,server,account,link list.,实时更新免费的代理,科学上网,翻墙,梯子,服务器,客户端,账号
 - Clone: `git clone git@github.com:hugetiny/awesome-vpn.git`
-- Stars: 2578, Forks: 408
+- Stars: 2694, Forks: 415
 
 
 [android](https://github.com/SmartisanTech/android) :
@@ -1888,7 +2092,7 @@
 - Owner: [SmartisanTech](https://github.com/SmartisanTech)
 - Description: Smartisan open source code for full build.(repo manifest xml)
 - Clone: `git clone git@github.com:SmartisanTech/android.git`
-- Stars: 2507, Forks: 364
+- Stars: 2507, Forks: 368
 
 
 [Back-End-Developer-Interview-Questions](https://github.com/monklof/Back-End-Developer-Interview-Questions) :
@@ -1896,7 +2100,7 @@
 - Owner: [monklof](https://github.com/monklof)
 - Description: 后端开发面试题，翻译自 https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
 - Clone: `git clone git@github.com:monklof/Back-End-Developer-Interview-Questions.git`
-- Stars: 2234, Forks: 352
+- Stars: 2253, Forks: 361
 
 
 [ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) :
@@ -1905,7 +2109,15 @@
 - Owner: [wangdoc](https://github.com/wangdoc)
 - Description: SSH 教程
 - Clone: `git clone git@github.com:wangdoc/ssh-tutorial.git`
-- Stars: 1611, Forks: 272
+- Stars: 1668, Forks: 286
+
+
+[animeTrackerList](https://github.com/DeSireFire/animeTrackerList) :
+
+- Owner: [DeSireFire](https://github.com/DeSireFire)
+- Description: 动漫磁性链接加速方案（animeTrackerList）
+- Clone: `git clone git@github.com:DeSireFire/animeTrackerList.git`
+- Stars: 1305, Forks: 82
 
 
 [programming-math-science](https://github.com/bobeff/programming-math-science) :
@@ -1913,24 +2125,7 @@
 - Owner: [bobeff](https://github.com/bobeff)
 - Description: This is a list of links to different freely available learning resources about computer programming, math, and science.
 - Clone: `git clone git@github.com:bobeff/programming-math-science.git`
-- Stars: 1203, Forks: 73
-
-
-[dowww](https://github.com/spencerwooo/dowww) :
-
-- [Website](https://dowww.spencerwoo.com)
-- Owner: [spencerwooo](https://github.com/spencerwooo)
-- Description: 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
-- Clone: `git clone git@github.com:spencerwooo/dowww.git`
-- Stars: 781, Forks: 36
-
-
-[a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) :
-
-- Owner: [girliemac](https://github.com/girliemac)
-- Description: I am trying to describe complex matters in simple doodles!
-- Clone: `git clone git@github.com:girliemac/a-picture-is-worth-a-1000-words.git`
-- Stars: 757, Forks: 55
+- Stars: 1259, Forks: 77
 
 
 [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering) :
@@ -1939,14 +2134,33 @@
 - Owner: [woai3c](https://github.com/woai3c)
 - Description: 一本小书《带你入门前端工程》
 - Clone: `git clone git@github.com:woai3c/introduction-to-front-end-engineering.git`
-- Stars: 738, Forks: 94
+- Stars: 897, Forks: 110
 
 
-[Awesome-design-tools](https://github.com/phh95/Awesome-design-tools) :
+[dowww](https://github.com/spencerwooo/dowww) :
 
-- Owner: [phh95](https://github.com/phh95)
-- Clone: `git clone git@github.com:phh95/Awesome-design-tools.git`
-- Stars: 574, Forks: 57
+- [Website](https://dowww.spencerwoo.com)
+- Owner: [spencerwooo](https://github.com/spencerwooo)
+- Description: 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
+- Clone: `git clone git@github.com:spencerwooo/dowww.git`
+- Stars: 821, Forks: 38
+
+
+[a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) :
+
+- Owner: [girliemac](https://github.com/girliemac)
+- Description: I am trying to describe complex matters in simple doodles!
+- Clone: `git clone git@github.com:girliemac/a-picture-is-worth-a-1000-words.git`
+- Stars: 796, Forks: 58
+
+
+[code-roadmap](https://github.com/liyupi/code-roadmap) :
+
+- [Website](https://luxian.yupi.icu/)
+- Owner: [liyupi](https://github.com/liyupi)
+- Description: 原创编程学习路线，包括全面的知识点、免费资源、面试题、学习建议、项目，适用于所有学习编程、求职的同学。已完成 Java、前端
+- Clone: `git clone git@github.com:liyupi/code-roadmap.git`
+- Stars: 682, Forks: 182
 
 
 [learningSummary](https://github.com/yehongzhi/learningSummary) :
@@ -1954,16 +2168,30 @@
 - Owner: [yehongzhi](https://github.com/yehongzhi)
 - Description: 涵盖大部分Java进阶需要掌握的知识，包括【微服务】【中间件】【缓存】【数据库优化】【搜索引擎】【分布式】等等，欢迎Star~
 - Clone: `git clone git@github.com:yehongzhi/learningSummary.git`
-- Stars: 453, Forks: 119
+- Stars: 629, Forks: 154
 
 
-[byte-of-vim](https://github.com/swaroopch/byte-of-vim) :
+[Awesome-design-tools](https://github.com/phh95/Awesome-design-tools) :
 
-- [Website](http://vim.swaroopch.com)
-- Owner: [swaroopch](https://github.com/swaroopch)
-- Description: "A Byte of Vim" is a book which aims to help you to learn how to use the Vim editor (version 7), even if all you know is how to use the computer keyboard.
-- Clone: `git clone git@github.com:swaroopch/byte-of-vim.git`
-- Stars: 348, Forks: 42
+- Owner: [phh95](https://github.com/phh95)
+- Clone: `git clone git@github.com:phh95/Awesome-design-tools.git`
+- Stars: 581, Forks: 56
+
+
+[jjqqkk](https://github.com/jjqqkk/jjqqkk) :
+
+- Owner: [jjqqkk](https://github.com/jjqqkk)
+- Description: JJQQKK上网助手
+- Clone: `git clone git@github.com:jjqqkk/jjqqkk.git`
+- Stars: 487, Forks: 129
+
+
+[v2ray-nodes](https://github.com/colatiger/v2ray-nodes) :
+
+- Owner: [colatiger](https://github.com/colatiger)
+- Description: v2ray,shadowrocket节点
+- Clone: `git clone git@github.com:colatiger/v2ray-nodes.git`
+- Stars: 399, Forks: 87
 
 
 [kuaixieya](https://github.com/oncework/kuaixieya) :
@@ -1972,7 +2200,16 @@
 - Owner: [oncework](https://github.com/oncework)
 - Description: 「快写鸭」是一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具，去除繁琐配置但又极具丰富且自定义性质等功能。
 - Clone: `git clone git@github.com:oncework/kuaixieya.git`
-- Stars: 329, Forks: 18
+- Stars: 378, Forks: 19
+
+
+[byte-of-vim](https://github.com/swaroopch/byte-of-vim) :
+
+- [Website](http://vim.swaroopch.com)
+- Owner: [swaroopch](https://github.com/swaroopch)
+- Description: "A Byte of Vim" is a book which aims to help you to learn how to use the Vim editor (version 7), even if all you know is how to use the computer keyboard.
+- Clone: `git clone git@github.com:swaroopch/byte-of-vim.git`
+- Stars: 357, Forks: 42
 
 
 [free](https://github.com/freev2/free) :
@@ -1980,7 +2217,7 @@
 - Owner: [freev2](https://github.com/freev2)
 - Description: freefq账号已恢复，此号暂停使用！--翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - Clone: `git clone git@github.com:freev2/free.git`
-- Stars: 249, Forks: 41
+- Stars: 269, Forks: 44
 
 
 [ShadowsocksX-NG-R](https://github.com/leadscloud/ShadowsocksX-NG-R) :
@@ -1988,7 +2225,7 @@
 - Owner: [leadscloud](https://github.com/leadscloud)
 - Description: Next Generation of ShadowsocksX
 - Clone: `git clone git@github.com:leadscloud/ShadowsocksX-NG-R.git`
-- Stars: 212, Forks: 30
+- Stars: 213, Forks: 31
 
 
 [InterviewPreparation](https://github.com/Victoria-Pinzhen-Liao/InterviewPreparation) :
@@ -1999,13 +2236,30 @@
 - Stars: 162, Forks: 17
 
 
+[awesome-bangumi](https://github.com/bangumi-users/awesome-bangumi) :
+
+- [Website](https://bangumi-users.github.io/awesome-bangumi/)
+- Owner: [bangumi-users](https://github.com/bangumi-users)
+- Description: bangumi.tv 相关的坑
+- Clone: `git clone git@github.com:bangumi-users/awesome-bangumi.git`
+- Stars: 154, Forks: 3
+
+
+[awesome-idea-tutorial](https://github.com/CodingDocs/awesome-idea-tutorial) :
+
+- Owner: [CodingDocs](https://github.com/CodingDocs)
+- Description: IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。 
+- Clone: `git clone git@github.com:CodingDocs/awesome-idea-tutorial.git`
+- Stars: 117, Forks: 8
+
+
 [onlytech-javascript-info](https://github.com/easychen/onlytech-javascript-info) :
 
 - [Website](http://go.ftqq.com/js)
 - Owner: [easychen](https://github.com/easychen)
 - Description: 纯粹技术免费课计划·现代JavaScript 教程
 - Clone: `git clone git@github.com:easychen/onlytech-javascript-info.git`
-- Stars: 115, Forks: 3
+- Stars: 116, Forks: 3
 
 
 [CodingStyle](https://github.com/shjborage/CodingStyle) :
@@ -2013,7 +2267,16 @@
 - Owner: [shjborage](https://github.com/shjborage)
 - Description: 各语言编码规范
 - Clone: `git clone git@github.com:shjborage/CodingStyle.git`
-- Stars: 58, Forks: 22
+- Stars: 59, Forks: 22
+
+
+[tech-arch-doc](https://github.com/rapharino/tech-arch-doc) :
+
+- [Website](https://pdai.tech)
+- Owner: [rapharino](https://github.com/rapharino)
+- Description: Java 全栈知识体系
+- Clone: `git clone git@github.com:rapharino/tech-arch-doc.git`
+- Stars: 25, Forks: 13
 
 
 [hosts_Bilibili](https://github.com/yxh0/hosts_Bilibili) :
@@ -2021,7 +2284,7 @@
 - Owner: [yxh0](https://github.com/yxh0)
 - Description: Introduce the clever use of hosts
 - Clone: `git clone git@github.com:yxh0/hosts_Bilibili.git`
-- Stars: 16, Forks: 1
+- Stars: 21, Forks: 2
 
 
 [workflows](https://github.com/cccyb/workflows) :
@@ -2029,6 +2292,6 @@
 - Owner: [cccyb](https://github.com/cccyb)
 - Description: 一些自己写的Alfred Wordflows
 - Clone: `git clone git@github.com:cccyb/workflows.git`
-- Stars: 14, Forks: 1
+- Stars: 16, Forks: 2
 
 
